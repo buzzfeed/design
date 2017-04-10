@@ -208,6 +208,7 @@ Exemplifies the Design Leadership Principles, and serves as an example to everyo
 Demonstrates taste in layout, typography and visual hierarchy, as it pertains to BuzzFeed’s brand and products.
 
 *Product Designer*  
+Demonstrates **understanding** of layout, typography and visual hierarchy, as it pertains to BuzzFeed’s brand and products.
 
 *Senior Product Designer*  
 
@@ -220,6 +221,7 @@ Demonstrates, articulates and **teaches** understanding of layout, typography an
 Adheres to the holistic design vision of BuzzFeed, across products and platforms.
 
 *Product Designer*  
+**Maintains** the holistic design vision of BuzzFeed, across products and platforms, with **consideration for the product’s future**.
 
 *Senior Product Designer*  
 
@@ -232,6 +234,7 @@ Adheres to the holistic design vision of BuzzFeed, across products and platforms
 Follows existing visual and UX patterns, whether specific to BuzzFeed and/or platform, to ensure a consistent and intuitive experience across all of BuzzFeed’s features and products.
 
 *Product Designer*  
+Follows existing visual and UX patterns, whether specific to BuzzFeed and/or platform, to ensure a consistent and intuitive experience across all of BuzzFeed’s features and products. **Also, identifies and flags instances where the patterns break down.**
 
 *Senior Product Designer*  
 
@@ -244,6 +247,7 @@ Follows existing visual and UX patterns. Also, **defines** and documents **new**
 Familiarity with information architecture, multi-step and cross-platform flows. Consistently considers the holistic user experience and potential states (errors, successes, dead-ends) in the features they work on. Puts themselves in the shoes of the end-user and advocates that point of view to their Squad and the Product Design team.
 
 *Product Designer*  
+Demonstrates **proficiency** with information architecture, multi-step and cross-platform flows. Consistently considers the holistic user experience and potential states (errors, successes, dead-ends) in the **products** they work on. Puts themselves in the shoes of the end-user and advocates that point of view to their Squad and the Product Design team.
 
 *Senior Product Designer*  
 
@@ -256,6 +260,7 @@ Demonstrates **mastery** of information architecture, multi-step and cross-platf
 Adopts our transparent, defined design process, which includes understanding project definition and scope, artifact creation, solicitation of feedback, iteration, prototyping, quality assurance, shipping and learning.
 
 *Product Designer*  
+**Demonstrates** our transparent, defined design process that includes project definition and scope, **research**, artifact creation, solicitation of feedback, iteration, prototyping, **building in production**, quality assurance, shipping and learning.
 
 *Senior Product Designer*  
 
@@ -268,6 +273,7 @@ Adopts our transparent, defined design process, which includes understanding pro
 Employs design tools to solve and communicate user flows, interaction and motion. These tools include sketching, diagramming, interface design tools (Sketch, Photoshop, Illustrator), production HTML/CSS for the Web, or native prototyping tools (Framer, Principle) for Mobile.
 
 *Product Designer*  
+Employs design tools to solve and communicate user flows, interaction and motion, and **knows which tool to use** depending on scope and phase of the project. These tools include sketching, diagramming, interface design tools (Sketch, Photoshop, Illustrator), production HTML/CSS for the Web, or native prototyping tools (Framer, Principle) for Mobile.
 
 *Senior Product Designer*  
 
@@ -280,6 +286,7 @@ Employs a broad set of design tools to best solve and communicate user flows, in
 Shares work early and often and seeks out constructive feedback from their manager, stakeholders, squads and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively works with their manager to filter and prioritize this feedback.
 
 *Product Designer*  
+Shares work early and often and seeks out constructive feedback from their manager, stakeholders, squads and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively works with their **Squad** and manager to filter and prioritize this feedback.
 
 *Senior Product Designer*  
 
@@ -292,6 +299,7 @@ Shares work early and often and encourages peers to seek out constructive feedba
 Considers the project’s key metrics when working through design problems.
 
 *Product Designer*  
+Considers the project’s key metrics when working through design problems. **Thinks strategically** about how to release features in small pieces and regularly looks for opportunities to validate their ideas with multivariate experimentation.
 
 *Senior Product Designer*  
 
@@ -304,6 +312,7 @@ Starts every project by considering what data will be important to their work by
 Communicates with product leads and engineers in their language, designing with consideration for their cares and concerns. Proactively works with their manager to negotiate thoughtful design outcomes when there are cross-discipline concerns.
 
 *Product Designer*  
+Communicates with product leads and engineers in their language, designing with consideration for their cares and concerns. **Fosters a highly-collaborative design process** and, as a result, is trusted by their team to talk through both scope and technical challenges and **negotiate** thoughtful outcomes.
 
 *Senior Product Designer*  
 
@@ -316,6 +325,7 @@ Communicates with product leads and engineers in their language, designing with 
 Actively improving their ability to communicate ideas clearly and succinctly in Basecamp, in documentation and over email, by soliciting feedback from their manager, other designers and their Squad. Writes direct, consistent and action-oriented UI copy.
 
 *Product Designer*  
+**Communicates** ideas clearly and succinctly in Basecamp, in documentation and over email. Writes direct, consistent and action-oriented UI copy and **upholds** BuzzFeed’s established tone across their **Squad’s product work**.
 
 *Senior Product Designer*  
 
@@ -328,6 +338,7 @@ Possesses strong writing skills. Communicates **complex** ideas clearly and succ
 Provides direct and impactful feedback in Group Crit, and engages peers in their work. Seeks out feedback from other designers, to grow their own skills and design toolkit.
 
 *Product Designer*  
+Provides direct and impactful feedback in Group Crit and **the larger Product Design Crit**, and engages peers in their work. Seeks out feedback from Senior and Staff Designers, to grow their own skills and design toolkit.
 
 *Senior Product Designer*  
 
@@ -337,8 +348,10 @@ Provides regular, direct and impactful feedback in Group Crits and the larger Pr
 ### Leadership
 
 *Associate Product Designer*  
+N/A
 
 *Product Designer*  
+Assumes a design leadership role on their Squads and individual feature teams. Collaborates closely with the product and engineering Squad leads to set the roadmap and scope of the project they work on.
 
 *Senior Product Designer*  
 
@@ -351,6 +364,7 @@ Assumes a product and design leadership role on their Group, Squads, individual 
 Contributes not only to the products they work on, but to their Squad as a whole. Identifies design-led projects and collaborates with other disciplines and departments. Spreads design thinking and enthusiasm across their Squad.
 
 *Product Designer*  
+Contributes not only to the products they work on, but to their **Group** as a whole. **Identifies** new design-led projects, **gains buy-in** and collaborates with other disciplines and departments. Spreads design thinking and enthusiasm across their **Group**.
 
 *Senior Product Designer*  
 
@@ -360,8 +374,10 @@ Contributes not only to the products they work on, but to **BuzzFeed** as a whol
 ### Recruiting
 
 *Associate Product Designer*  
+N/A
 
 *Product Designer*  
+Contributes to Product Design recruiting by completing training to support interview loops. Participates in the cross-department hiring process for their Squad, and provides thoughtful feedback and recommendations.
 
 *Senior Product Designer*  
 
@@ -371,8 +387,10 @@ Contributes not only to the products they work on, but to **BuzzFeed** as a whol
 ### The Example
 
 *Associate Product Designer*  
+N/A
 
 *Product Designer*  
+N/A
 
 *Senior Product Designer*  
 
