@@ -11,6 +11,10 @@
 [Managers Grouped By Theme](#managers_combined_by_theme)
 
 ## <a id="associate_product_designer"></a>Associate Product Designer
+
+###Visual Design
+Demonstrates taste in layout, typography and visual hierarchy, as it pertains to BuzzFeed’s brand and products.
+
 ## <a id="product_designer"></a>Product Designer
 ## <a id="senior_product_designer"></a>Senior Product Designer
 ## <a id="staff_product_designer"></a>Staff Product Designer
