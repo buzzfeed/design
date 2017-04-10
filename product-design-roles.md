@@ -48,7 +48,7 @@ Provides direct and impactful feedback in Group Crit, and engages peers in their
 ### Culture
 Contributes not only to the products they work on, but to their Squad as a whole. Identifies design-led projects and collaborates with other disciplines and departments. Spreads design thinking and enthusiasm across their Squad.
 
-<br><br>
+<br>
 
 ## <a id="product_designer"></a>Product Designer
 
