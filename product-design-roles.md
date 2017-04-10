@@ -1,5 +1,7 @@
 # Product Design Roles
 
+## Contents
+
 [Associate Product Designer](#associate_product_designer)  
 [Product Designer](#product_designer)  
 [Senior Product Designer](#senior_product_designer)  
@@ -9,6 +11,8 @@
 [Product Design Manager](#product_design_manager)  
 [Senior Product Design Manager](#senior_product_design_manager)  
 [Managers Grouped By Theme](#managers_combined_by_theme)
+
+<br>
 
 ## <a id="associate_product_designer"></a>Associate Product Designer
 
