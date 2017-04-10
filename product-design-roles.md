@@ -19,10 +19,7 @@
 ## <a id="associate_product_designer"></a>Associate Product Designer
 
 ### Visual Design
-Demonstrates taste in layout, typography and visual hierarchy, as it pertains to BuzzFeed’s brand and products.
-
-### Brand
-Adheres to the holistic design vision of BuzzFeed, across products and platforms.
+Demonstrates taste in layout, typography and visual hierarchy, as it pertains to BuzzFeed’s brand and products. Adheres to the BuzzFeed brand, across products and platforms.
 
 ### Patterns
 Follows existing visual and UX patterns, whether specific to BuzzFeed and/or platform, to ensure a consistent and intuitive experience across all of BuzzFeed’s features and products.
@@ -205,7 +202,7 @@ Exemplifies the Design Leadership Principles, and serves as an example to everyo
 ### Visual Design
 
 *Associate Product Designer*  
-Demonstrates taste in layout, typography and visual hierarchy, as it pertains to BuzzFeed’s brand and products.
+Demonstrates taste in layout, typography and visual hierarchy, as it pertains to BuzzFeed’s brand and products. Adheres to the BuzzFeed brand, across products and platforms.
 
 *Product Designer*  
 Demonstrates **understanding** of layout, typography and visual hierarchy, as it pertains to BuzzFeed’s brand and products.
