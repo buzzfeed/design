@@ -115,7 +115,7 @@ Follows existing visual and UX patterns. Also, **defines** and documents **new**
 Demonstrates **expertise** with information architecture, multi-step and cross-platform flows. Consistently considers the holistic user experience and potential states (errors, successes, dead-ends) in their product work. Additionally, **takes responsibility for the UX of their Group’s products** and how they overlap and connect across different features and platforms. Puts themselves in the shoes of the end-user and advocates that point of view to their Squad, **Group leads** and the Product Design team.
 
 ### Process
-Demonstrates a **deep understanding** of our defined** **and transparent design process. **Shows good judgment and flexibility **in applying that process to their work, and participates** **in **roadmap definition** and scope, research, artifact creation, solicitation of feedback, iteration, prototyping, building in production, quality assurance, shipping and learning.
+Demonstrates a **deep understanding** of our defined and transparent design process. **Shows good judgment and flexibility** in applying that process to their work, and participates in **roadmap definition** and scope, research, artifact creation, solicitation of feedback, iteration, prototyping, building in production, quality assurance, shipping and learning.
 
 ### Toolkit
 Employs a **broad** set of design tools to **best solve** and communicate user flows, interaction and motion, and knows which tool to use depending on scope and phase of the project. These tools include sketching, diagramming, interface design tools (Sketch, Photoshop, Illustrator), production HTML/CSS and Javascript for the Web, or platform SDKs (Xcode, Android Studio) and native prototyping tools (Framer, Principle) for Mobile. Additionally, **seeks out new techniques and tools**, tries them out and makes recommendations to the Product Design team.
@@ -130,7 +130,7 @@ Starts every project by considering what data will be important to their work by
 Communicates with product leads and engineers in their language, designing with consideration for their cares and concerns. Fosters a highly-collaborative design process and, as a result, is trusted by their team to talk through both scope and technical challenges and negotiate thoughtful outcomes. **Participates in cross-discipline Councils**, bringing a design voice to the conversation and building trust between the design team and other disciplines.
 
 ### Writing
-Possesses strong writing skills. Communicates ideas clearly and succinctly in Basecamp, in documentation and over email, **in a way that is accessible** to those unfamiliar with the projects. Writes direct, consistent and action-oriented UI copy and upholds BuzzFeed’s established tone across their** Group’s product work**.
+Possesses strong writing skills. Communicates ideas clearly and succinctly in Basecamp, in documentation and over email, **in a way that is accessible** to those unfamiliar with the projects. Writes direct, consistent and action-oriented UI copy and upholds BuzzFeed’s established tone across their **Group’s product work**.
 
 ### Mentorship
 Provides **regular**, direct and impactful feedback in Group Crits and the larger Product Design Crit, and engages individual designers **in the Group to help them grow** their skills and design toolkit. Is **generous with their time and knowledge**, and looks out for and offers potential opportunities to other designers, as well as flags successes and concerns to design managers.
