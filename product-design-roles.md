@@ -416,9 +416,58 @@ Exemplifies the Design Leadership Principles, and serves as an example to everyo
 
 ## <a id="product_design_manager"></a>Product Design Manager
 
+### Design Leadership
+Assumes a design leadership role within their product Groups. Brings a strong opinion and thoughtful voice to Group Critiques and Basecamp, at times identifying overlaps between their Groups’ work and other projects at BuzzFeed. Encourages and identifies opportunities for consistency within their own Groups, while also guiding divergent thinking so that BuzzFeed’s design systems can evolve in a healthy, transparent and holistic way.
+
+### Group Leadership
+Works closely with their Group leads to establish OKRs and a high-level strategy for their Groups. References that strategy and OKRs as a regular part of their team’s design process, bringing it up in Basecamp, Product Design Critique and other review moments to drive the design conversation in a meaningful direction. Additionally, takes responsibility for balancing speed, quality and consistency of design, ensuring that design is not blocking the team, yet also providing focused time for good design to occur.
+
+### Mentorship
+Takes on a mentorship role for the designers they manage. Provides strong guidance, goal-setting and accountability with regard to each designer’s career at BuzzFeed, design strategy, project strategy and how to approach interpersonal situations in a kind, yet impactful way. Surfaces their team members’ goals to Product Design management and Group leads and looks for ways others can help each designer make progress in their growth areas. Actively increases the output of high performers, helps solid performers move toward high performance and sets firm expectations for consistently low performers and coaches them to help meet their goals.
+
+### Communication
+Consistently delivers clarity for others: whether describing a complex project with many dependencies, delivering design critique, writing documentation for the Product Design team or giving feedback in a 1:1. A model practitioner of [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/), giving direct and actionable feedback to the people they manage, as well as their own manager and themselves. Confronts difficult situations head-on, choosing to increase, rather than decrease, communication when there’s friction or uncertainty
+
+### Strategy
+Contributes to the overall strategy for Product Design at BuzzFeed in collaboration with the other Product Design Managers. Thinks holistically about their Groups’ current needs, as well as future challenges, and proposes methods to pursue potential solutions. Consistently and regularly shares the Product Design strategy with the designers in their Groups, aligning with the overall tone and expectations for intra-team interactions and keeping the larger Product Design goals top of mind for each designer. Additionally, is highly-attuned to how Product Design is perceived within their Groups and works actively to evolve and improve perceptions where they may be misaligned with our strategy.
+
+### Recruiting
+Takes responsibility for Product Design recruiting by engaging designers in a variety of venues (social media, events, one-on-one). Serves as a primary or secondary screen, supports interview loops and trains participants from across disciplines to interview effectively. Runs both pre-huddles and post-huddles, assigning areas of focus to each interviewer and holding them accountable for the quality of their feedback. Participates fully in the cross-department hiring process within their Groups, providing thoughtful feedback and recommendations.
+
+### The Example
+Exemplifies the Design Leadership Principles, and serves as an example to everyone at BuzzFeed. Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment. Mentors their Group’s designers to help them grow and embody our principles.
+
 <br>
 
 ## <a id="senior_product_design_manager"></a>Senior Product Design Manager
+
+**Design Leadership**
+
+Assumes a design leadership role **both on their assigned Groups and across the Product Design team** at large. Brings a strong opinion and thoughtful voice to **Product Design critiques** and Basecamp, **frequently** making connections between **seemingly-disparate bodies of work**. Encourages and identifies opportunities for consistency across **the entire design team**, while also guiding divergent thinking so that BuzzFeed’s design systems can evolve in a healthy, transparent and holistic way.
+
+**Group Leadership**
+
+**Proactively works** with their Group leads to establish OKRs and a high-level strategy for their Groups. References that strategy and OKRs as a regular part of their team’s design process, bringing it up in Basecamp, Product Design Critique and other review moments to drive the design conversation in a meaningful direction. Additionally, takes responsibility for balancing speed, quality and consistency of design, ensuring that design is not blocking the team, yet also providing focused time for good design to occur. **Is a vocal participant during Group Reviews** with senior management, bringing a strong understanding of the Groups’ strengths and challenges (from a design, engineering and product perspective). Relatedly, **assumes ownership of all of the Squads they manage** and provides frequent input (both to the Squad and to Group leads) on roadmaps, scope, design and engineering execution, and staffing.
+
+**Mentorship**
+
+Takes on a mentorship role for the designers they manage, **as well as individuals as the need arises**. Provides strong guidance, goal-setting and accountability with regard to each designer’s career at BuzzFeed, design strategy, project strategy and how to approach interpersonal situations in a kind, yet impactful way. Surfaces their team members’ goals to Product Design management and Group leads and looks for ways others can help each designer make progress in their growth areas. Actively increases the output of high performers, helps solid performers move toward high performance and sets firm expectations for consistently low performers and coaches them to help meet their goals.
+
+**Communication**
+
+Consistently delivers clarity for others: whether describing a complex project with many dependencies, delivering design critique, writing documentation for the Product Design team or giving feedback in a 1:1. A model practitioner of [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/), giving direct and actionable feedback to the people they manage, **their Group leads and Squads**, their own manager and themselves. Confronts difficult situations head-on, choosing to increase, rather than decrease, communication when there’s friction or uncertainty Additionally, **actively helps their team members to become better communicators** by providing regular feedback not only on the substance of their communications in Basecamp, Design Critiques, Product Reviews, etc., but also the content and communication strategy itself.
+
+**Strategy**
+
+**Leads** the overall strategy for Product Design at BuzzFeed in collaboration with the other Product Design Managers. Thinks holistically about the team’s current needs, as well as future challenges, and proposes methods to pursue potential solutions. Consistently and regularly shares the Product Design strategy with **the entire Product Design team**, setting the overall tone and expectations for intra-team interactions and keeping the larger Product Design goals top of mind for each designer. Additionally, is highly-attuned to how Product Design is perceived within **BuzzFeed Tech** and works actively to evolve and improve perceptions where they may be misaligned with our strategy.
+
+**Recruiting**
+
+**Takes ownership** of Product Design recruiting by constantly reviewing, shaping and evolving the process. Proactively engages designers in a variety of venues (social media, events, one-on-one). Serves as a primary or secondary screen, supports interview loops and trains participants from across disciplines to interview effectively. Runs both pre-huddles and post-huddles, assigning areas of focus to each interviewer and holding them accountable for the quality of their feedback. Participates fully in the cross-department hiring process **across BuzzFeed Tech**, providing thoughtful feedback and recommendations. 
+
+**The Example**
+
+Exemplifies the Design Leadership Principles, and serves as an example to everyone at BuzzFeed. Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment. Mentors **Product Designers and Product Design Managers** to help them grow and embody our principles.
 
 <br>
 
