@@ -12,7 +12,7 @@
 
 ## <a id="associate_product_designer"></a>Associate Product Designer
 
-### Visual Design
+**Visual Design**  
 Demonstrates taste in layout, typography and visual hierarchy, as it pertains to BuzzFeed’s brand and products.
 
 ## <a id="product_designer"></a>Product Designer
