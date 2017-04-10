@@ -1,5 +1,7 @@
 # Product Design Roles
 
+<br>
+
 **Contents**
 
 [Associate Product Designer](#associate_product_designer)  
@@ -194,7 +196,7 @@ Contributes not only to the products they work on, but to **BuzzFeed** as a whol
 **Takes responsibility** for Product Design recruiting by proactively engaging designers in a variety of venues (social media, events, one-on-one). Serves as a primary or secondary screen, supports interview loops and trains other designers to interview effectively. Participates fully in the cross-department hiring process **across BuzzFeed Tech**, providing thoughtful feedback and recommendations. 
 
 ### The Example
-Exemplifies the Design Leadership Principles, and serves as an example to everyone at BuzzFeed. Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment. Mentors their fellow designers to help them grow and embody our principles.
+Exemplifies the Design Leadership Principles, and serves as an example to everyone at BuzzFeed. Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment. **Mentors their fellow designers to help them grow and embody our principles.**
 
 <br>
 
