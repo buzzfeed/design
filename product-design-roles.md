@@ -202,16 +202,16 @@ Exemplifies the Design Leadership Principles, and serves as an example to everyo
 ### Visual Design
 
 *Associate Product Designer*  
-Demonstrates taste in layout, typography and visual hierarchy, as it pertains to BuzzFeed’s brand and products. Adheres to the BuzzFeed brand, across products and platforms.
+Demonstrates taste in layout, typography and visual hierarchy. Uses our Design Principles, as well as existing style guides and previous Product Design work to represent the BuzzFeed brand.
 
 *Product Designer*  
-Demonstrates **understanding** of layout, typography and visual hierarchy, as it pertains to BuzzFeed’s brand and products.
+Demonstrates **understanding** of layout, typography and visual hierarchy. Uses our Design Principles, as well as existing style guides and previous Product Design work to represent the BuzzFeed brand **with a holistic consideration for their product's future**.
 
 *Senior Product Designer*  
-Demonstrates and **articulates understanding** of layout, typography and visual hierarchy, as it pertains to BuzzFeed’s brand and products.
+Demonstrates and **articulates understanding** of layout, typography and visual hierarchy. **Maintains and suggests evolutions of** our Design Principles and existing style guides with a holistic consideration for their **platform's** future.
 
 *Staff Product Designer*  
-Demonstrates, articulates and **teaches** understanding of layout, typography and visual hierarchy, as it pertains to BuzzFeed’s brand and products.
+Demonstrates, articulates and **teaches** understanding of layout, typography and visual hierarchy. Maintains and suggests evolutions of our Design Principles and existing style guides with a holistic consideration for **all of BuzzFeed's products**.
 
 ### Brand
 
