@@ -213,20 +213,6 @@ Demonstrates and **articulates understanding** of layout, typography and visual 
 *Staff Product Designer*  
 Demonstrates, articulates and **teaches** understanding of layout, typography and visual hierarchy. Maintains and suggests evolutions of our Design Principles and existing style guides with a holistic consideration for **all of BuzzFeed's products**.
 
-### Brand
-
-*Associate Product Designer*  
-Adheres to the holistic design vision of BuzzFeed, across products and platforms.
-
-*Product Designer*  
-**Maintains** the holistic design vision of BuzzFeed, across products and platforms, with **consideration for the product’s future**.
-
-*Senior Product Designer*  
-**Sets**, maintains and advocates for the holistic design vision of BuzzFeed, across products, platforms and Squads, with consideration for the product’s future. 
-
-*Staff Product Designer*  
-**Partners with the Brand Design team to set**, maintain and advocate for the holistic vision of BuzzFeed, across products, platforms and **Groups**, with consideration for the product’s future.
-
 ### Patterns
 
 *Associate Product Designer*  
