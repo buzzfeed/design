@@ -216,16 +216,16 @@ Demonstrates, articulates and **teaches** understanding of layout, typography an
 ### Patterns
 
 *Associate Product Designer*  
-Follows existing visual and UX patterns, whether specific to BuzzFeed and/or platform, to ensure a consistent and intuitive experience across all of BuzzFeed’s features and products.
+Follows existing visual and UX patterns established on BuzzFeed and the product's platform to ensure a consistent and intuitive experience across.
 
 *Product Designer*  
-Follows existing visual and UX patterns, whether specific to BuzzFeed and/or platform, to ensure a consistent and intuitive experience across all of BuzzFeed’s features and products. **Also, identifies and flags instances where the patterns break down.**
+**Balances existing visual and UX patterns with ensuring an intuitive experience across the product(s) they work on. Proactively identifies and flags instances where existing patterns break down in their own work and diverges responsibly.**
 
 *Senior Product Designer*  
-Follows existing visual and UX patterns. Also, **defines** and documents **new** patterns specific to BuzzFeed and/or platform. **Ensures** a consistent and intuitive experience **across the Group’s** features and products.
+Balances existing visual and UX patterns with ensuring an intuitive experience across the product(s) they work on. Proactively identifies and flags instances where existing patterns break down **within their product area** and diverges responsibly - **defining, documenting and sharing new patterns where appropriate**.
 
 *Staff Product Designer*  
-Follows existing visual and UX patterns. Also, **defines** and documents **new** patterns specific to BuzzFeed and/or platform. Ensures a consistent and intuitive experience **across all of BuzzFeed’s** features and products.
+Balances existing visual and UX patterns with ensuring an intuitive experience across the product(s) they work on. Proactively identifies and flags instances where existing patterns break down **across all of BuzzFeed's product areas** and diverges responsibly - defining, documenting and sharing new patterns where appropriate, **as well as encouraging and helping fellow designers to do the same**.
 
 ### UX Design
 
