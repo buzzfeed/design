@@ -213,33 +213,33 @@ Demonstrates and **articulates understanding** of layout, typography and visual 
 *Staff Product Designer*  
 Demonstrates, articulates and **teaches** understanding of layout, typography and visual hierarchy. Maintains and suggests evolutions of our Design Principles and existing style guides with a holistic consideration for **all of BuzzFeed's products**.
 
-### Patterns
-
-*Associate Product Designer*  
-Follows existing visual and UX patterns established on BuzzFeed and the product's platform to ensure a consistent and intuitive experience across.
-
-*Product Designer*  
-**Balances existing visual and UX patterns with ensuring an intuitive experience across the product(s) they work on. Proactively identifies and flags instances where existing patterns break down in their own work and diverges responsibly.**
-
-*Senior Product Designer*  
-Balances existing visual and UX patterns with ensuring an intuitive experience across the product(s) they work on. Proactively identifies and flags instances where existing patterns break down **within their product area** and diverges responsibly - **defining, documenting and sharing new patterns where appropriate**.
-
-*Staff Product Designer*  
-Balances existing visual and UX patterns with ensuring an intuitive experience across the product(s) they work on. Proactively identifies and flags instances where existing patterns break down **across all of BuzzFeed's product areas** and diverges responsibly - defining, documenting and sharing new patterns where appropriate, **as well as encouraging and helping fellow designers to do the same**.
-
 ### UX Design
 
 *Associate Product Designer*  
-Familiarity with information architecture, multi-step and cross-platform flows. Consistently considers the holistic user experience and potential states (errors, successes, dead-ends) in the features they work on. Puts themselves in the shoes of the end-user and advocates that point of view to their Squad and the Product Design team.
+Familiarity with information architecture, multi-step and cross-platform flows. Consistently considers the holistic user experience and potential states (errors, successes, dead-ends). Puts themselves in the shoes of the end-user and advocates that point of view to their Squad and the Product Design team.
 
 *Product Designer*  
 Demonstrates **proficiency** with information architecture, multi-step and cross-platform flows. Consistently considers the holistic user experience and potential states (errors, successes, dead-ends) in the **products** they work on. Puts themselves in the shoes of the end-user and advocates that point of view to their Squad and the Product Design team.
 
 *Senior Product Designer*  
-Demonstrates **expertise** with information architecture, multi-step and cross-platform flows. Consistently considers the holistic user experience and potential states (errors, successes, dead-ends) in their product work. Additionally, **takes responsibility for the UX of their Group’s products** and how they overlap and connect across different features and platforms. Puts themselves in the shoes of the end-user and advocates that point of view to their Squad, **Group leads** and the Product Design team.
+Demonstrates and **articulates** a strong understanding of information architecture, multi-step and cross-platform flows. Consistently considers the holistic user experience, potential states (errors, successes, dead-ends) and product overlaps in their own and others' work. Points out connections and potential collisions between different products, features and platforms. Puts themselves in the shoes of the end-user and advocates that point of view to their immediate product development team, fellow designers and senior leaders.
 
 *Staff Product Designer*  
-Demonstrates **mastery** of information architecture, multi-step and cross-platform flows. Consistently considers the holistic user experience and potential states (errors, successes, dead-ends) in their product work. Additionally, takes responsibility for the UX of the **Product Design** team’s work — pointing out overlaps and connections between different **products, features and platforms**. Puts themselves in the shoes of the end-user and advocates that point of view to **Group leads, senior management** and the Product Design team.
+Demonstrates, articulates and **teaches others** understanding of information architecture, multi-step and cross-platform flows. Consistently considers the holistic user experience, potential states (errors, successes, dead-ends) and product overlaps in their own and others' work. Points out connections and potential collisions between different products, features and platforms. Puts themselves in the shoes of the end-user and advocates that point of view to their immediate product development team, fellow designers and senior leaders.
+
+### Patterns
+
+*Associate Product Designer*  
+Follows existing visual and UX patterns established on BuzzFeed to ensure a consistent, intuitive experience.
+
+*Product Designer*  
+**Balances** existing visual and UX patterns **with platform-specific patterns** to ensure a consistent, intuitive experience. **Identifies and flags instances where existing patterns break down in their own work and diverges responsibly.**
+
+*Senior Product Designer*  
+Balances existing visual and UX patterns with platform-specific patterns to ensure a consistent, intuitive experience. Identifies and flags instances where existing patterns break down in their own work, **as well as work done by other designers on that platform. When diverging from established patterns, identifies, documents and socializes new patterns amongst the design team**.
+
+*Staff Product Designer*  
+Balances existing visual and UX patterns with platform-specific patterns to ensure a consistent, intuitive experience. Identifies and flags instances where existing patterns break down in their own work, as well as work done by other designers **across all of BuzzFeed's products**. When diverging from established patterns, identifies, documents and socializes new patterns amongst the design team, **and assists and educates fellow designers in doing the same**.
 
 ### Process
 
