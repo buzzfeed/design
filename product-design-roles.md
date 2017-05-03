@@ -247,7 +247,7 @@ Balances existing visual and UX patterns with platform-specific patterns to ensu
 n/a
 
 *Staff Product Designer*
-Exhibits a strong product vision for their product area, as well as for how all of BuzzFeed's products work together. Shapes their team's product roadmap and goals by providing input from a user's perspective, and ensures they're pursuing achievable, measurable and impactful goals. In their design work, regularly references product goals and can speak confidently about how their work relates to the broader product vision and company objectives.
+Exhibits a strong product vision for their product area, as well as for how all of BuzzFeed's products work together. Shapes their team's roadmap and goals by providing input from a user's perspective, and ensures they're pursuing achievable, measurable and impactful goals. In their design work, regularly references product goals and can speak confidently about how their work relates to the broader product vision and company objectives.
 
 ### Process
 
