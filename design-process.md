@@ -18,19 +18,19 @@ There are five phases in the BuzzFeed Product Design Process, which break down a
 
 They unfold over time:
 
-![Product Design Phases In Theory](../design-process/images/product-design-phases-in-theory.png?raw=true)
+![Product Design Phases In Theory](../../images/product-design-phases-in-theory.png?raw=true)
 
 A project doesn’t necessarily have to conform to a particular sequence but the goal of reaching Learn as quickly as possible provides a north-star and the flexibility to adapt as the realities of a project unfold after kick off. The scale on the x-axis is variable to fit any sized project, this works as well for a project lasting a week as it does for a 6-month marathon.
 
 And here is a project showing a slightly more realistic sequence complete with the loops that each phase is made up of:
 
-[[images/product-design-phases-in-reality-with-loops.gif]]
+![Product Design Phases In Reality](../../images/product-design-phases-in-reality-with-loops.gif)
 
 ## The Product Design Feedback Loop
 
 The loop provides the micro-view, it’s the atomic unit of our design process. While it also happens over time, time is much less relevant here, the focus is toward deconstructing something designers typically internalize as one fluid movement in order to pinpoint areas for clarity and growth. Think of a tennis coach deconstructing a serve, this is our toolkit for analyzing each component part and helping designers grow their capability across them.
 
-[[images/product-design-feedback-loop.png]]
+![Product Design Feedback Loop](../../images/product-design-feedback-loop.png)
 
 1. **Gather** input through observation, listening or research
 2. **Synthesize** this input, identifying where you need to go next and what artifact will help get you there
@@ -41,7 +41,7 @@ Digital product design is such a new discipline that most practitioners have lea
 
 Here’s an example of three loops that could happen during an explore phase.
 
-[[images/product-design-feedback-loop-with-examples.gif]]
+![Product Design Feedback Loop With Examples](../../images/product-design-feedback-loop-with-examples.gif)
 
 As you can see, this is less of a hard science and more of a tool to reveal blind spots. While this GIF explicitly mentions tools like Sketch, the framework is intended to be tool agnostic.
 
