@@ -18,7 +18,7 @@ There are five phases in the BuzzFeed Product Design Process, which break down a
 
 They unfold over time:
 
-![Product Design Phases In Theory](../blob/design-process/images/product-design-phases-in-theory.png?raw=true)
+![Product Design Phases In Theory](../design-process/images/product-design-phases-in-theory.png?raw=true)
 
 A project doesn’t necessarily have to conform to a particular sequence but the goal of reaching Learn as quickly as possible provides a north-star and the flexibility to adapt as the realities of a project unfold after kick off. The scale on the x-axis is variable to fit any sized project, this works as well for a project lasting a week as it does for a 6-month marathon.
 
