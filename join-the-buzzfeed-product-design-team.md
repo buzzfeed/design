@@ -2,7 +2,8 @@
 
 As of May 8, 2017 we’re looking for a:
 
-- **Senior Product Designer**, iOS in NYC
+- **Senior Product Designer**, Apps in NYC
+- **Product Designer**, Apps in NYC
 - **Product Designer**, Web in NYC
 - **Product Designer**, Tools in NYC
 
