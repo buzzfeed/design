@@ -289,16 +289,16 @@ Employs a broad set of design tools to best solve and communicate user flows, in
 ### Transparency
 
 *Associate Product Designer*  
-Shares work early and often and seeks out constructive feedback from their manager, stakeholders, squads and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively works with their manager to filter and prioritize this feedback.
+Shares work early and often and seeks out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively works with their manager to filter and prioritize this feedback.
 
 *Product Designer*  
-Shares work early and often and seeks out constructive feedback from their manager, stakeholders, squads and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively works with their **Squad** and manager to filter and prioritize this feedback.
+Shares work early and often and seeks out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively works with their **team** and manager to filter and prioritize this feedback.
 
 *Senior Product Designer*  
-Shares work early and often and **encourages peers** to seek out constructive feedback from their manager, stakeholders, squads and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively filters and prioritizes this feedback **on their own** and with their Squad.
+Shares work early and often and **encourages peers** to seek out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively filters and prioritizes this feedback **on their own** and with their team.
 
 *Staff Product Designer*  
-Shares work early and often and encourages peers to seek out constructive feedback from their manager, stakeholders, squads and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively filters and prioritizes this feedback. Also, **solicits feedback from other designers as a tool for teaching** different methods and benefits of good critique.
+Shares work early and often and encourages peers to seek out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively filters and prioritizes this feedback. Also, **solicits feedback from other designers as a tool for teaching** different methods and benefits of good critique.
 
 ### Data
 
