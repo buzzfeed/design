@@ -65,7 +65,7 @@ Demonstrates **understanding** of layout, typography and visual hierarchy. Uses 
 ### Patterns*
 **Balances** existing visual and UX patterns **with platform-specific patterns** to ensure a consistent, intuitive experience. **Identifies and flags instances where existing patterns break down in their own work and diverges responsibly.**
 
-### Product Thinking*
+### Product Thinking
 Has a strong understanding of the vision and key objectives for their product area, taking queues from their design manager, as well as their product and engineering leads. Consistently considers how their designs can support that vision, the team's goals, the broader product vision and company objectives. 
 
 ### Process*
@@ -77,7 +77,7 @@ Employs design tools to solve and communicate user flows, interaction and motion
 ### Transparency*
 Shares work early and often and seeks out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively works with their **team** and manager to filter and prioritize this feedback.
 
-### Data
+### Data*
 Begins every project by considering what sorts of qualitative and quantitative data will be important in their work. Partners closely with User Research and Data Science, gathering their input through the design process to ensure data is being collected and interpreted responsibly. 
 
 ### Fluency
@@ -106,7 +106,7 @@ Demonstrates and **articulates** a strong understanding of information architect
 ### Patterns*
 Balances existing visual and UX patterns with platform-specific patterns to ensure a consistent, intuitive experience. Identifies and flags instances where existing patterns break down in their own work, **as well as work done by other designers on that platform. When diverging from established patterns, identifies, documents and socializes new patterns amongst the design team.**
 
-### Product Thinking
+### Product Thinking*
 **Leads the vision for their product area alongside their product and engineering counterparts. Shapes their team's roadmap and goals by providing input from a user's perspective, and ensures they're pursuing achievable, measurable and impactful goals. In their design work, regularly references product goals and can speak confidently about how their work relates to the broader product vision and company objectives.**
 
 ### Process*
@@ -118,7 +118,7 @@ Employs a **broad** set of design tools to **best solve** and communicate user f
 ### Transparency*
 Shares work early and often and **encourages peers** to seek out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively filters and prioritizes this feedback **on their own** and with their team.
 
-### Data
+### Data*
 Begins every project by considering what sorts of qualitative and quantitative data will be important in their work. Partners closely with User Research and Data Science, gathering their input through the design process to ensure data is being collected and interpreted responsibly. **Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users.**
 
 ### Fluency
@@ -156,7 +156,7 @@ Demonstrates, articulates and **teaches others** understanding of information ar
 ### Patterns*
 Balances existing visual and UX patterns with platform-specific patterns to ensure a consistent, intuitive experience. Identifies and flags instances where existing patterns break down in their own work, as well as work done by other designers **across all of BuzzFeed's products**. When diverging from established patterns, identifies, documents and socializes new patterns amongst the design team, **and assists and educates fellow designers in doing the same.**
 
-### Product Thinking
+### Product Thinking*
 Leads the vision for their own product area alongside their product and engineering counterparts, **while also defining how all of BuzzFeed's products work together.** Shapes their team's roadmap and goals by providing input from a user's perspective, and ensures they're pursuing achievable, measurable and impactful goals. In their design work, regularly references product goals and can speak confidently about how their work relates to the broader product vision and company objectives. **Works with other designers and design managers to drive for product directions with complimentary, cohesive goals and execution.**
 
 ### Process*
@@ -168,7 +168,7 @@ Employs a broad set of design tools to best solve and communicate user flows, in
 ### Transparency*
 Shares work early and often and encourages peers to seek out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively filters and prioritizes this feedback. Also, **solicits feedback from other designers as a tool for teaching** different methods and benefits of good critique.
 
-### Data
+### Data*
 Begins every project by considering what sorts of qualitative and quantitative data will be important to their work. Partners closely with User Research and Data Science, **yet is also accountable** for data being collected and interpreted responsibly. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users. **Consistently holds designers accountable for examining their choices through the lens of data, and fosters a learning culture both within Design and the larger Tech organization.**
 
 ### Fluency
