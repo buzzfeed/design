@@ -211,10 +211,10 @@ Demonstrates taste in layout, typography and visual hierarchy. Uses our Design P
 Demonstrates **understanding** of layout, typography and visual hierarchy. Uses our Design Principles, as well as existing style guides and previous Product Design work to represent the BuzzFeed brand **with a holistic consideration for their product's future.**
 
 *Senior Product Designer*  
-Demonstrates and **articulates understanding** of layout, typography and visual hierarchy. Exhibits strong art direction skills, using existing visual frameworks creatively to produce styles and patterns that are fresh, yet feel visually cohesive with the rest of BuzzFeed's products. **Maintains and suggests evolutions of** our Design Principles and existing style guides with a holistic consideration for their **platform's** future.
+Demonstrates and **articulates understanding** of layout, typography and visual hierarchy. Exhibits strong art direction skills, using existing visual frameworks creatively to produce styles and patterns that are new, yet feel visually cohesive with the rest of BuzzFeed's products. **Maintains and suggests evolutions of** our Design Principles and existing style guides with a holistic consideration for their **platform's** future.
 
 *Staff Product Designer*  
-Demonstrates, articulates and **teaches** understanding of layout, typography and visual hierarchy. Exhibits strong art direction skills, using existing visual frameworks creatively to produce styles and patterns that are fresh, yet feel visually cohesive with the rest of BuzzFeed's products, **and helping others to do the same**. Maintains, suggests and **advocates for** evolutions of our Design Principles and existing style guides with a holistic consideration for **all of BuzzFeed's products. Forges strong relationships with other design teams at BuzzFeed and works with them to influence the entire BuzzFeed ecosystem.**
+Demonstrates, articulates and **teaches** understanding of layout, typography and visual hierarchy. Exhibits strong art direction skills, using existing visual frameworks creatively to produce styles and patterns that are new, yet feel visually cohesive with the rest of BuzzFeed's products, **and helping others to do the same**. Maintains, suggests and **advocates for** evolutions of our Design Principles and existing style guides with a holistic consideration for **all of BuzzFeed's products. Forges strong relationships with other design teams at BuzzFeed and works with them to influence the entire BuzzFeed ecosystem.**
 
 ### UX Design
 
