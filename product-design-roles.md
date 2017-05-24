@@ -66,7 +66,7 @@ Demonstrates **understanding** of layout, typography and visual hierarchy. Uses 
 **Balances** existing visual and UX patterns **with platform-specific patterns** to ensure a consistent, intuitive experience. **Identifies and flags instances where existing patterns break down in their own work and diverges responsibly.**
 
 ### Product Thinking
-Has a strong understanding of the vision and key objectives for their product area, taking queues from their design manager, as well as their product and engineering leads. Consistently considers how their designs can support that vision, the team's goals, the broader product vision and company objectives. 
+Has a strong understanding of the vision and key objectives for their product area, taking cues from their design manager, as well as their product and engineering leads. Consistently considers how their designs can support that vision, the team's goals, the broader product vision and company objectives. 
 
 ### Process*
 **Consistently demonstrates** our defined design process and **uses the design process to contextualize their work and the type of feedback they need in a given moment.**
@@ -140,7 +140,7 @@ Contributes to the culture of their own and **adjacent product teams** by identi
 Completes training to support Product Design interview loops. Vets and reaches out to designers in our recruiting list, regularly conducts screening calls, participates in Product Design on-site interview loops and ensures their written and verbal feedback are thoughtful and represent our role documentation.
 
 ### The Example*
-Exemplifies the Tech Leadership Principles, and serves as an example to everyone on the Product Design team. Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment.
+Exemplifies the [Tech Leadership Principles](https://docs.google.com/document/d/1wJMgJRYtkKXx5XmKYuyT2t7_A3Rp77a2siDFeL4I4Nw/edit), and serves as an example to everyone on the Product Design team. Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment.
 
 <br>
 
@@ -169,7 +169,7 @@ Employs a broad set of design tools to best solve and communicate user flows, in
 Shares work early and often and encourages peers to seek out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively filters and prioritizes this feedback. Also, **solicits feedback from other designers as a tool for teaching** different methods and benefits of good critique.
 
 ### Data*
-Begins every project by considering what sorts of qualitative and quantitative data will be important to their work. Partners closely with User Research and Data Science, **yet is also accountable** for data being collected and interpreted responsibly. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users. **Consistently holds designers accountable for examining their choices through the lens of data, and fosters a learning culture both within Design and the larger Tech organization.**
+Begins every project by considering what sorts of qualitative and quantitative data will be important to their work. Partners closely with User Research and Data Science, **and is also accountable** for data being collected and interpreted responsibly. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users. **Consistently holds designers accountable for examining their choices through the lens of data, and fosters a learning culture both within Design and the larger Tech organization.**
 
 ### Fluency
 Communicates with product leads and engineers in their language, designing with consideration for their cares and concerns. Fosters a highly-collaborative design process and, as a result, is trusted by their team to talk through both scope and technical challenges and negotiate thoughtful outcomes. **Takes a leadership role** in cross-discipline initiatives, bringing a design voice to the conversation and building trust between the design team and other disciplines.
@@ -190,7 +190,7 @@ Contributes to the culture of their product team as well as **BuzzFeed Tech as a
 **Takes ownership of Product Design recruiting by providing interview training to the Product Design team, as well as process feedback and recommendations for improvement to the design managers. Cultivates recruiting sources and proactively adds potential candidates to our recruiting list.** Regularly reaches out to designers in our recruiting list, conducts screening calls, participates in Product Design on-site interview loops and ensures their written and verbal feedback are thoughtful and represent our role documentation.
 
 ### The Example*
-Exemplifies the Tech Leadership Principles, and serves as an example to everyone in the **Tech department.** Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment. **Mentors their fellow designers to help them grow and embody our principles.**
+Exemplifies the [Tech Leadership Principles](https://docs.google.com/document/d/1wJMgJRYtkKXx5XmKYuyT2t7_A3Rp77a2siDFeL4I4Nw/edit), and serves as an example to everyone in the **Tech department.** Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment. **Mentors their fellow designers to help them grow and embody our principles.**
 
 <br>
 
@@ -238,13 +238,13 @@ Balances existing visual and UX patterns with platform-specific patterns to ensu
 *Staff Product Designer*  
 Balances existing visual and UX patterns with platform-specific patterns to ensure a consistent, intuitive experience. Identifies and flags instances where existing patterns break down in their own work, as well as work done by other designers **across all of BuzzFeed's products**. When diverging from established patterns, identifies, documents and socializes new patterns amongst the design team, **and assists and educates fellow designers in doing the same.**
 
-###Product Thinking
+### Product Thinking
 
 *Associate Product Designer*  
 n/a
 
 *Product Designer*  
-Has a strong understanding of the vision and key objectives for their product area, taking queues from their design manager, as well as their product and engineering leads. Consistently considers how their designs can support that vision, the team's goals, the broader product vision and company objectives. 
+Has a strong understanding of the vision and key objectives for their product area, taking cues from their design manager, as well as their product and engineering leads. Consistently considers how their designs can support that vision, the team's goals, the broader product vision and company objectives. 
 
 *Senior Product Designer*  
 **Leads the vision for their product area alongside their product and engineering counterparts. Shapes their team's roadmap and goals by providing input from a user's perspective, and ensures they're pursuing achievable, measurable and impactful goals. In their design work, regularly references product goals and can speak confidently about how their work relates to the broader product vision and company objectives.**
@@ -306,7 +306,7 @@ Begins every project by considering what sorts of qualitative and quantitative d
 Begins every project by considering what sorts of qualitative and quantitative data will be important in their work. Partners closely with User Research and Data Science, gathering their input through the design process to ensure data is being collected and interpreted responsibly. **Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users.**
 
 *Staff Product Designer*  
-Begins every project by considering what sorts of qualitative and quantitative data will be important to their work. Partners closely with User Research and Data Science, **yet is also accountable** for data being collected and interpreted responsibly. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users. **Consistently holds designers accountable for examining their choices through the lens of data, and fosters a learning culture both within Design and the larger Tech organization.**
+Begins every project by considering what sorts of qualitative and quantitative data will be important to their work. Partners closely with User Research and Data Science, **and is also accountable** for data being collected and interpreted responsibly. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users. **Consistently holds designers accountable for examining their choices through the lens of data, and fosters a learning culture both within Design and the larger Tech organization.**
 
 ### Fluency
 
@@ -401,10 +401,10 @@ N/A
 N/A
 
 *Senior Product Designer*  
-Exemplifies the Tech Leadership Principles, and serves as an example to everyone on the Product Design team. Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment.
+Exemplifies the [Tech Leadership Principles](https://docs.google.com/document/d/1wJMgJRYtkKXx5XmKYuyT2t7_A3Rp77a2siDFeL4I4Nw/edit), and serves as an example to everyone on the Product Design team. Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment.
 
 *Staff Product Designer*  
-Exemplifies the Tech Leadership Principles, and serves as an example to everyone in the **Tech department.** Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment. **Mentors their fellow designers to help them grow and embody our principles.**
+Exemplifies the [Tech Leadership Principles](https://docs.google.com/document/d/1wJMgJRYtkKXx5XmKYuyT2t7_A3Rp77a2siDFeL4I4Nw/edit), and serves as an example to everyone in the **Tech department.** Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment. **Mentors their fellow designers to help them grow and embody our principles.**
 <br>
 
 ## <a id="product_design_manager"></a>Product Design Manager
