@@ -110,7 +110,7 @@ Balances existing visual and UX patterns with platform-specific patterns to ensu
 **Leads the vision for their product area alongside their product and engineering counterparts. Shapes their team's roadmap and goals by providing input from a user's perspective, and ensures they're pursuing achievable, measurable and impactful goals. In their design work, regularly references product goals and can speak confidently about how their work relates to the broader product vision and company objectives.**
 
 ### Process*
-Demonstrates a **deep understanding** of our defined design process. **Shows good judgment and flexibility in applying that process to their work, moving fluidly between each stage as needed.** Uses the design process to contextualize their work and the type of feedback they need in a given moment.
+Demonstrates a **deep understanding** of our defined design process by **showing good judgment and flexibility in applying that process to their work, moving fluidly between each stage as needed.** Uses the design process to contextualize their work and the type of feedback they need in a given moment.
 
 ### Toolkit
 Employs a **broad** set of design tools to **best solve** and communicate user flows, interaction and motion, and knows which tool to use depending on scope and phase of the project. These tools include sketching, diagramming, interface design tools (Sketch, Photoshop, Illustrator), production HTML/CSS and Javascript for the Web, or platform SDKs (Xcode, Android Studio) and native prototyping tools (Framer, Principle) for Mobile. Additionally, **seeks out new techniques and tools**, tries them out and makes recommendations to the Product Design team.
@@ -261,7 +261,7 @@ Learns and executes our defined design process, which includes project definitio
 **Consistently demonstrates** our defined design process and **uses the design process to contextualize their work and the type of feedback they need in a given moment.**
 
 *Senior Product Designer*  
-Demonstrates a **deep understanding** of our defined design process. **Shows good judgment and flexibility in applying that process to their work, moving fluidly between each stage as needed.** Uses the design process to contextualize their work and the type of feedback they need in a given moment.
+Demonstrates a **deep understanding** of our defined design process by **showing good judgment and flexibility in applying that process to their work, moving fluidly between each stage as needed.** Uses the design process to contextualize their work and the type of feedback they need in a given moment.
 
 *Staff Product Designer*  
 **Exemplifies** and **takes responsibility for maintaining and improving** our defined design process. Shows good judgment and flexibility in applying that process to their work, moving fluidly between each stage as needed. **Uses the process to educate their teams and fellow designers in how best to approach problems, solicit feedback and drive for impactful outcomes.**
