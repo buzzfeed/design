@@ -37,7 +37,7 @@ Employs design tools to solve and communicate user flows, interaction and motion
 Shares work early and often and seeks out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively works with their manager to filter and prioritize this feedback.
 
 ### Data
-Begins every project by considering what sorts of qualitative and quantitative data will be important in their work. Partners closely with their manager, User Research and Data Science, gathering their input through the design process to ensure data is being collected and interpreted responsibly. 
+Begins every project by parterning with User Research and Data Science to define what qualitative and quantitative data will be important in their work. Interfaces with those teams throughout the design and development process, making changes to the product based on their analysis and recommendations.
 
 ### Fluency
 Communicates with product leads and engineers in their language, designing with consideration for their cares and concerns. Proactively works with their manager to negotiate thoughtful design outcomes when there are cross-discipline concerns.
@@ -78,7 +78,7 @@ Employs design tools to solve and communicate user flows, interaction and motion
 Shares work early and often and seeks out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively works with their **team** and manager to filter and prioritize this feedback.
 
 ### Data*
-Begins every project by considering what sorts of qualitative and quantitative data will be important in their work. Partners closely with User Research and Data Science, gathering their input through the design process to ensure data is being collected and interpreted responsibly. 
+Begins every project by parterning with User Research and Data Science to define what qualitative and quantitative data will be important in their work. **Partners** with those teams throughout the design and development process, **becoming familiar with different data collection techniques** and making changes to the product based on data analysis.
 
 ### Fluency
 Communicates with product leads and engineers in their language, designing with consideration for their cares and concerns. **Fosters a collaborative, cross-disciplinary design process** and, as a result, is trusted by their team to talk through both scope and technical challenges and **negotiate** thoughtful outcomes.
@@ -119,7 +119,7 @@ Employs a **broad** set of design tools to **best solve** and communicate user f
 Shares work early and often and **encourages peers** to seek out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively filters and prioritizes this feedback **on their own** and with their team.
 
 ### Data*
-Begins every project by considering what sorts of qualitative and quantitative data will be important in their work. Partners closely with User Research and Data Science, gathering their input through the design process to ensure data is being collected and interpreted responsibly. **Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users.**
+Begins every project by **defining** what qualitative and quantitative data will be important in their work. Partners with User Research and Data Science throughout the design and development process **to run research studies and experiments, analyze the findings and validate potential product changes. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users.**
 
 ### Fluency
 Communicates with product leads and engineers in their language, designing with consideration for their cares and concerns. Fosters a highly-collaborative design process and, as a result, is trusted by their team to talk through both scope and technical challenges and negotiate thoughtful outcomes. **Participates in cross-discipline initiatives**, bringing a design voice to the conversation and building trust between the design team and other disciplines.
@@ -169,7 +169,7 @@ Employs a broad set of design tools to best solve and communicate user flows, in
 Shares work early and often and encourages peers to seek out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively filters and prioritizes this feedback. Also, **solicits feedback from other designers as a tool for teaching** different methods and benefits of good critique.
 
 ### Data*
-Begins every project by considering what sorts of qualitative and quantitative data will be important to their work. Partners closely with User Research and Data Science, **and is also accountable** for data being collected and interpreted responsibly. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users. **Consistently holds designers accountable for examining their choices through the lens of data, and fosters a learning culture both within Design and the larger Tech organization.**
+Begins every project by defining what qualitative and quantitative data will be important in their work. Partners with User Research and Data Science throughout the design and development process to run research studies and experiments, analyze the findings and validate potential product changes. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users. **Consistently holds designers accountable for examining their choices through the lens of data, and fosters a learning culture both within Design and the larger Tech organization.**
 
 ### Fluency
 Communicates with product leads and engineers in their language, designing with consideration for their cares and concerns. Fosters a highly-collaborative design process and, as a result, is trusted by their team to talk through both scope and technical challenges and negotiate thoughtful outcomes. **Takes a leadership role** in cross-discipline initiatives, bringing a design voice to the conversation and building trust between the design team and other disciplines.
@@ -297,16 +297,16 @@ Shares work early and often and encourages peers to seek out constructive feedba
 ### Data
 
 *Associate Product Designer*  
-Begins every project by considering what sorts of qualitative and quantitative data will be important in their work. Partners closely with their manager, User Research and Data Science, gathering their input through the design process to ensure data is being collected and interpreted responsibly. 
+Begins every project by parterning with User Research and Data Science to define what qualitative and quantitative data will be important in their work. Interfaces with those teams throughout the design and development process, making changes to the product based on their analysis and recommendations.
 
 *Product Designer*  
-Begins every project by considering what sorts of qualitative and quantitative data will be important in their work. Partners closely with User Research and Data Science, gathering their input through the design process to ensure data is being collected and interpreted responsibly. 
+Begins every project by parterning with User Research and Data Science to define what qualitative and quantitative data will be important in their work. **Partners** with those teams throughout the design and development process, **becoming familiar with different data collection techniques** and making changes to the product based on data analysis.
 
 *Senior Product Designer*  
-Begins every project by considering what sorts of qualitative and quantitative data will be important in their work. Partners closely with User Research and Data Science, gathering their input through the design process to ensure data is being collected and interpreted responsibly. **Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users.**
+Begins every project by **defining** what qualitative and quantitative data will be important in their work. Partners with User Research and Data Science throughout the design and development process **to run research studies and experiments, analyze the findings and validate potential product changes. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users.**
 
 *Staff Product Designer*  
-Begins every project by considering what sorts of qualitative and quantitative data will be important to their work. Partners closely with User Research and Data Science, **and is also accountable** for data being collected and interpreted responsibly. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users. **Consistently holds designers accountable for examining their choices through the lens of data, and fosters a learning culture both within Design and the larger Tech organization.**
+Begins every project by defining what qualitative and quantitative data will be important in their work. Partners with User Research and Data Science throughout the design and development process to run research studies and experiments, analyze the findings and validate potential product changes. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users. **Consistently holds designers accountable for examining their choices through the lens of data, and fosters a learning culture both within Design and the larger Tech organization.**
 
 ### Fluency
 
