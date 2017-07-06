@@ -37,7 +37,7 @@ Employs design tools to solve and communicate user flows, interaction and motion
 Shares work early and often and seeks out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively works with their manager to filter and prioritize this feedback.
 
 ### Data
-Begins every project by parterning with User Research and Data Science to define what qualitative and quantitative data will be important in their work. Interfaces with those teams throughout the design and development process, making changes to the product based on their analysis and recommendations.
+Begins every project by partnering with User Research and Data Science to define what qualitative and quantitative data will be important in their work. Interfaces with those teams throughout the design and development process, making changes to the product based on their analysis and recommendations.
 
 ### Fluency
 Communicates with product leads and engineers in their language, designing with consideration for their cares and concerns. Proactively works with their manager to negotiate thoughtful design outcomes when there are cross-discipline concerns.
