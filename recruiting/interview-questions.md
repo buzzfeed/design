@@ -1,6 +1,6 @@
 # Interview Questions
 
-*Note: This document is not meant to be fully covered in any interview, nor used completely verbatim.   These questions are meant as seeds to inspire more questions and deeper conversations about working style, collaboration and how a candidate sees themselves, their role and their teammates.  *
+*Note: This document is not meant to be fully covered in any interview, nor used completely verbatim.   These questions are meant as seeds to inspire more questions and deeper conversations about working style, collaboration and how a candidate sees themselves, their role and their teammates.*
 
 ## General Questions
 
