@@ -140,7 +140,7 @@ Contributes to the culture of their own and **adjacent product teams** by identi
 Completes training to support Product Design interview loops. Vets and reaches out to designers in our recruiting list, regularly conducts screening calls, participates in Product Design on-site interview loops and ensures their written and verbal feedback are thoughtful and represent our role documentation.
 
 ### The Example*
-Exemplifies the [Tech Leadership Principles](https://docs.google.com/document/d/1wJMgJRYtkKXx5XmKYuyT2t7_A3Rp77a2siDFeL4I4Nw/edit), and serves as an example to everyone on the Product Design team. Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment.
+Exemplifies the [Tech Leadership Principles](https://github.com/buzzfeed/design/blob/master/tech-leadership-principles.md), and serves as an example to everyone on the Product Design team. Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment.
 
 <br>
 
@@ -190,7 +190,7 @@ Contributes to the culture of their product team as well as **BuzzFeed Tech as a
 **Takes ownership of Product Design recruiting by providing interview training to the Product Design team, as well as process feedback and recommendations for improvement to the design managers. Cultivates recruiting sources and proactively adds potential candidates to our recruiting list.** Regularly reaches out to designers in our recruiting list, conducts screening calls, participates in Product Design on-site interview loops and ensures their written and verbal feedback are thoughtful and represent our role documentation.
 
 ### The Example*
-Exemplifies the [Tech Leadership Principles](https://docs.google.com/document/d/1wJMgJRYtkKXx5XmKYuyT2t7_A3Rp77a2siDFeL4I4Nw/edit), and serves as an example to everyone in the **Tech department.** Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment. **Mentors their fellow designers to help them grow and embody our principles.**
+Exemplifies the [Tech Leadership Principles](https://github.com/buzzfeed/design/blob/master/tech-leadership-principles.md), and serves as an example to everyone in the **Tech department.** Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment. **Mentors their fellow designers to help them grow and embody our principles.**
 
 <br>
 
@@ -401,10 +401,10 @@ N/A
 N/A
 
 *Senior Product Designer*  
-Exemplifies the [Tech Leadership Principles](https://docs.google.com/document/d/1wJMgJRYtkKXx5XmKYuyT2t7_A3Rp77a2siDFeL4I4Nw/edit), and serves as an example to everyone on the Product Design team. Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment.
+Exemplifies the [Tech Leadership Principles](https://github.com/buzzfeed/design/blob/master/tech-leadership-principles.md), and serves as an example to everyone on the Product Design team. Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment.
 
 *Staff Product Designer*  
-Exemplifies the [Tech Leadership Principles](https://docs.google.com/document/d/1wJMgJRYtkKXx5XmKYuyT2t7_A3Rp77a2siDFeL4I4Nw/edit), and serves as an example to everyone in the **Tech department.** Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment. **Mentors their fellow designers to help them grow and embody our principles.**
+Exemplifies the [Tech Leadership Principles](https://github.com/buzzfeed/design/blob/master/tech-leadership-principles.md), and serves as an example to everyone in the **Tech department.** Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment. **Mentors their fellow designers to help them grow and embody our principles.**
 <br>
 
 ## <a id="product_design_manager"></a>Product Design Manager
