@@ -4,15 +4,15 @@ Hello!
 
 Welcome to the recruiting home for BuzzFeed's Product Design team! Whether you're a candidate, a BuzzFeed employee or just someone looking to learn more about our recruiting process, the following documentation is meant to represent our best thinking at the moment, as well as give our candidates a concrete idea of what to expect when going through our recruiting process.
 
-We are currently: **Hiring!**
+## Are We Hiring?
 
-**Sr. Product Designer**  
-For our News product team. Work on the future of BuzzFeed News as a product alongside our awesome product and engineering team, as well as our award-winning journalism team!
+We are currently hiring!
 
-Email [kelsey.scherer@buzzfeed.com](mailto:kelsey.scherer@buzzfeed.com) if you're interested and feel your skills align with those in our [Product Design Roles](https://github.com/buzzfeed/design/blob/master/product-design-roles.md).
+### Sr. Product Designer, News
+Work on the future of BuzzFeed News as a product alongside our awesome product and engineering team, as well as our award-winning journalism team! Email [kelsey.scherer@buzzfeed.com](mailto:kelsey.scherer@buzzfeed.com) if you're interested and feel your skills align with those in our [Product Design Roles](https://github.com/buzzfeed/design/blob/master/product-design-roles.md).
 
-**Product Designer**  
-Email [caylee.betts@buzzfeed.com](mailto:caylee.betts@buzzfeed.com) if you're interested and feel your skills align with those in our [Product Design Roles](https://github.com/buzzfeed/design/blob/master/product-design-roles.md).
+### Product Designer, Internal Tools
+We believe distributing our posts and videos across all platforms at once should be as easy as possible for our editorial staff. Join a team that drastically simplifies what could be an extremely complex and convoluted process, and help us make software that gives our editors more time to be creative! Email [caylee.betts@buzzfeed.com](mailto:caylee.betts@buzzfeed.com) if you're interested and feel your skills align with those in our [Product Design Roles](https://github.com/buzzfeed/design/blob/master/product-design-roles.md).
 
 ## The Team
 The Product Design team at BuzzFeed is made up of multidisciplinary designers, who are individually responsible for all aspects of design: user research, UX design, visual design, prototyping and, on the web, front-end implementation. Additionally, our designers are key collaborators when it comes to cross-disciplinary activities such as product discovery and A/B experiment definition, design and analysis.
@@ -33,3 +33,5 @@ Too often, the people who are paid the most are the people who negotiated during
 
 ### Starting Off On The Right Foot
 At the end of an interview process, we want candidates to feel as excited as we are to take the next step together. We've found that when offers are negotiable, the conversations with candidates are much more fraught. By assuring candidates that our salaries are competitive with most of the Tech market and then providing them with the best offer from the start, we've found the offer process to not only be more successful, but also to cause less stress for the people we want to hire.
+
+## The Interview Process
