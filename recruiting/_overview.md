@@ -9,7 +9,7 @@ Welcome to the recruiting home for BuzzFeed's Product Design team! Whether you'r
 We are currently hiring!
 
 ### Sr. Product Designer, News
-Work on the future of BuzzFeed News as a product alongside our awesome product and engineering team, as well as our award-winning journalism team! Email [Kelsey Scherer](mailto:kelsey.scherer@buzzfeed.com) if you're interested and feel your skills align with those in our [Product Design Roles](https://github.com/buzzfeed/design/blob/master/product-design-roles.md).
+Work on the future of BuzzFeed News as a Product Designer alongside our awesome product and engineering team, as well as our award-winning journalism team! Email [Kelsey Scherer](mailto:kelsey.scherer@buzzfeed.com) if you're interested and feel your skills align with those in our [Product Design Roles](https://github.com/buzzfeed/design/blob/master/product-design-roles.md).
 
 ## The Team
 The Product Design team at BuzzFeed is made up of multidisciplinary designers, who are individually responsible for all aspects of design: user research, UX design, visual design, prototyping and, on the web, front-end implementation. Additionally, our designers are key collaborators when it comes to cross-disciplinary activities such as product discovery and A/B experiment definition, design and analysis.
@@ -18,7 +18,7 @@ The Product Design team at BuzzFeed is made up of multidisciplinary designers, w
 As these responsibilities belie, we look for team members who are curious and consider the entire product lifecycle as their responsibility. It is not uncommon for our Product Designers to write up product proposals, run trainings on how to use our internal tools, or influence the direction of our front-end architecture. We place a high value on transparency, collaboration and strong communication, sharing our work widely and inviting critique from any and all disciplines.
 
 ## On Diversity
-On the BuzzFeed Product Design team, we care deeply about building a diverse team, and then supporting them in their career and skill growth. We are dedicated to creating and maintaining a respectful workplace that values everyone on our team bringing their whole selves to work.
+On the BuzzFeed Product Design team, we care deeply about building a diverse team, and then supporting every team member in their career and skill growth. We are dedicated to creating and maintaining a respectful workplace that values everyone on our team bringing their whole selves to work.
 
 BuzzFeed does not discriminate in employment matters on the basis of race, color, religion, gender identity or expression, national origin, age, military service eligibility, veteran status, sexual orientation, marital status, disability, or any other protected class. If you have a disability, we're more than happy to accommodate and make the interview process better for you.
 
@@ -40,10 +40,10 @@ What follows is, generally, the process we use for every candidate we talk to. W
 ### Teamwork and Collaboration
 We'll spend a few minutes telling you about BuzzFeed, our Design team and how our different product teams are structured and work together. After that, we'll ask you a few questions about how you've worked with other designers, disciplines and stakeholders in the past. We'll dig into specific examples of disagreements you've had with others, situations you would've handled differently if you could, and times you've felt super successful in your collaborations. We'll ask you some questions about how you see your role as a Product Designer, where the lines are between you and other disciplines and what you do when those roles are unclear.
 
-For a sample of some questions we might ask you, check our our [Interview Question Bank](https://github.com/buzzfeed/design/blob/master/recruiting/interview-questions.md).
+For a sample of some questions we might ask you, check out our [Interview Question Bank](https://github.com/buzzfeed/design/blob/master/recruiting/interview-questions.md).
 
 ### Portfolio Review
-This interview, like it says on the box, is a deep dive into your design work. While we're certainly curious about the final result, we're even more interested in your process to get there: goals you set, iterations you tried, experiments that failed, etc. We know how messy our own projects can get, so don't be afraid to pop open a Sketch file of all your crazy ideas and show us wide exploration before describing how you narrowed in! We'll talk to you about how you validated your ideas, and what you learned after launching your project.
+This interview, like it says on the box, is a deep dive into your design work with one of our managers or Sr. Product Designers. While we're certainly curious about the final result, we're even more interested in your process to get there: goals you set, iterations you tried, experiments that failed, etc. We know how messy our own projects can get, so don't be afraid to pop open a Sketch file of all your crazy ideas and show us wide exploration before describing how you narrowed in! We'll talk to you about how you validated your ideas, and what you learned after launching your project.
 
 ### Design Exercise (Optional)
 In cases where we feel we need information we weren't able to glean from the previous steps, we may ask you to complete a design exercise. We pay you for your time ($500 for 10 hours of work) and give you a prompt related to an existing BuzzFeed product. We also send you a list of questions we're hoping to answer through the exercise, for example:
@@ -54,10 +54,10 @@ In cases where we feel we need information we weren't able to glean from the pre
 As always, we welcome questions about the exercise (it's not a test, just a way to see skills we didn't see in the interviews up to that point) and want to provide candidates with what they need to be successful. We are also happy to work with candidates who don't feel they can spare the ten hours for the exercise to find other methods for getting what we need to move the process forward.
 
 ### Onsite Interview Loop
-We'll bring you to the BuzzFeed office in New York to meet in-person with a few of our team members. Generally, our loops wind up being composed like this:
+We'll bring you to the BuzzFeed office in New York to meet in-person with a few of our team members. Generally, our loops wind up being composed of a handful of 45 minute meetings, that are arranged something like this:
 
 #### Portfolio Review
-This is always the first session during our onsite interviews, and will include everyone you'll meet throughout the day. Similar to the portfolio interview earlier in the process, we ask you to walk through 1-3 projects, talk through goals, problems along the way, iterations and learnings. Even though it's impossible to completely avoid interviews and portfolio presentations feeling stressful, we try our best to keep them feeling casual, asking questions and talking with you the way we would in any other design or product meeting.
+This is always the first session during our onsite interviews, and will include everyone you'll meet throughout the day (so, 5-6 people or so). Similar to the portfolio interview earlier in the process, we ask you to walk through 1-3 projects, talk through goals, problems along the way, iterations and learnings. Even though it's impossible to completely avoid interviews and portfolio presentations feeling stressful, we try our best to keep them feeling casual, asking questions and talking with you the way we would in any other design or product meeting.
 
 #### Product Interview
 Meet with one of our Product Managers and talk about your past relationships with PMs: what made your successful collaborations successful? What problems have you encountered? What's a time you've strongly disagreed with your PM and what happened?
