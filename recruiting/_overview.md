@@ -54,7 +54,7 @@ In cases where we feel we need information we weren't able to glean from the pre
 As always, we welcome questions about the exercise (it's not a test, just a way to see skills we didn't see in the interviews up to that point) and want to provide candidates with what they need to be successful. We are also happy to work with candidates who don't feel they can spare the ten hours for the exercise to find other methods for getting what we need to move the process forward.
 
 ### Onsite Interview Loop
-We'll bring you to the BuzzFeed office in New York to meet in-person with a few of our team members. Generally, our loops wind up being composed of a handful of 45 minute meetings, that are arranged something like this:
+We'll bring you to the BuzzFeed office in New York to meet in-person with a few of our team members. Generally, our loops wind up being composed of a handful of 45-minute meetings, that are arranged something like this:
 
 #### Portfolio Review
 This is always the first session during our onsite interviews, and will include everyone you'll meet throughout the day (so, 5-6 people or so). Similar to the portfolio interview earlier in the process, we ask you to walk through 1-3 projects, talk through goals, problems along the way, iterations and learnings. Even though it's impossible to completely avoid interviews and portfolio presentations feeling stressful, we try our best to keep them feeling casual, asking questions and talking with you the way we would in any other design or product meeting.
