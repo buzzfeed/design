@@ -6,7 +6,7 @@ Welcome to the recruiting home for BuzzFeed's Product Design team! Whether you'r
 
 ## Are We Hiring?
 
-We're not currently hiring but keep an eye on this post or [Kelsey Scherer](twitter.com/kelsa_), [Caylee Betts](https://twitter.com/cayleebetts), [Sofia Millares](https://twitter.com/sofimilli) for new opportunities as they come up.
+We're not currently hiring but keep an eye on this post or [Kelsey Scherer](https://twitter.com/kelsa_), [Caylee Betts](https://twitter.com/cayleebetts), [Sofia Millares](https://twitter.com/sofimilli) for new opportunities as they come up.
 
 
 ## The Team
