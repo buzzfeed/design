@@ -78,7 +78,7 @@ Employs design tools to solve and communicate user flows, interaction and motion
 Shares work early and often and seeks out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively works with their **team** and manager to filter and prioritize this feedback.
 
 ### Data*
-Begins every project by parterning with User Research and Data Science to define what qualitative and quantitative data will be important in their work. **Partners** with those teams throughout the design and development process, **becoming familiar with different data collection techniques** and making changes to the product based on data analysis.
+Begins every project by partnering with User Research and Data Science to define what qualitative and quantitative data will be important in their work. **Partners** with those teams throughout the design and development process, **becoming familiar with different data collection techniques** and making changes to the product based on data analysis.
 
 ### Fluency
 Communicates with product leads and engineers in their language, designing with consideration for their cares and concerns. **Fosters a collaborative, cross-disciplinary design process** and, as a result, is trusted by their team to talk through both scope and technical challenges and **negotiate** thoughtful outcomes.
@@ -297,10 +297,10 @@ Shares work early and often and encourages peers to seek out constructive feedba
 ### Data
 
 *Associate Product Designer*  
-Begins every project by parterning with User Research and Data Science to define what qualitative and quantitative data will be important in their work. Interfaces with those teams throughout the design and development process, making changes to the product based on their analysis and recommendations.
+Begins every project by partnering with User Research and Data Science to define what qualitative and quantitative data will be important in their work. Interfaces with those teams throughout the design and development process, making changes to the product based on their analysis and recommendations.
 
 *Product Designer*  
-Begins every project by parterning with User Research and Data Science to define what qualitative and quantitative data will be important in their work. **Partners** with those teams throughout the design and development process, **becoming familiar with different data collection techniques** and making changes to the product based on data analysis.
+Begins every project by partnering with User Research and Data Science to define what qualitative and quantitative data will be important in their work. **Partners** with those teams throughout the design and development process, **becoming familiar with different data collection techniques** and making changes to the product based on data analysis.
 
 *Senior Product Designer*  
 Begins every project by **defining** what qualitative and quantitative data will be important in their work. Partners with User Research and Data Science throughout the design and development process **to run research studies and experiments, analyze the findings and validate potential product changes. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users.**
