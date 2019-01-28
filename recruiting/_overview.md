@@ -5,7 +5,7 @@ Hello!
 Welcome to the recruiting home for BuzzFeed's Product Design team! Whether you're a candidate, a BuzzFeed employee or just someone looking to learn more about our recruiting process, the following documentation is meant to represent our best thinking at the moment, as well as give our candidates a concrete idea of what to expect when going through our recruiting process.
 
 ## Are We Hiring?
-Yes! We’re looking for Product Designers to join our team in New York and LA. Email [Sofia Millares](mailto:sofia.millares@buzzfeed.com) or [apply directly](https://www.buzzfeed.com/about/jobs?gh_jid=1265462) if you're interested and feel your skills align with those in our [Product Design Roles](https://github.com/buzzfeed/design/blob/master/product-design-roles.md).
+We're not currently hiring but keep an eye on this post or reach out to [Kelsey Scherer](twitter.com/kelsa_) or [Sofia Millares](https://twitter.com/sofimilli) for new opportunities as they come up.
 
 We're also looking for a Product Design Manager to join our team in New York. Email [Kelsey Scherer](mailto:kelsey.scherer@buzzfeed.com) or [apply directly](https://boards.greenhouse.io/buzzfeed/jobs/1391474?gh_jid=1391474) if you're interested and feel your skills align with our [Product Design Manager Role](https://github.com/buzzfeed/design/blob/master/product-design-roles.md#product_design_manager).
 
