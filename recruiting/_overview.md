@@ -7,8 +7,6 @@ Welcome to the recruiting home for BuzzFeed's Product Design team! Whether you'r
 ## Are We Hiring?
 We're not currently hiring but keep an eye on this post or reach out to [Kelsey Scherer](twitter.com/kelsa_) or [Sofia Millares](https://twitter.com/sofimilli) for new opportunities as they come up.
 
-We're also looking for a Product Design Manager to join our team in New York. Email [Kelsey Scherer](mailto:kelsey.scherer@buzzfeed.com) or [apply directly](https://boards.greenhouse.io/buzzfeed/jobs/1391474?gh_jid=1391474) if you're interested and feel your skills align with our [Product Design Manager Role](https://github.com/buzzfeed/design/blob/master/product-design-roles.md#product_design_manager).
-
 
 ## The Team
 The Product Design team at BuzzFeed is made up of multidisciplinary designers, who are individually responsible for all aspects of design: user research, UX design, visual design, prototyping and, on the web, front-end implementation. Additionally, our designers are key collaborators when it comes to cross-disciplinary activities such as product discovery and A/B experiment definition, design and analysis.
