@@ -7,6 +7,8 @@ Welcome to the recruiting home for BuzzFeed's Product Design team! Whether you'r
 ## Are We Hiring?
 Yes! We’re looking for an **Associate Product Designer** to join our team in New York. Email [Allison Krausman](mailto:allison.krausman@buzzfeed.com) or [apply directly](https://boards.greenhouse.io/buzzfeed/jobs/1662228?gh_jid=1662228) if you're interested and feel your skills align with those in our [Product Design Roles](https://github.com/buzzfeed/design/blob/master/product-design-roles.md).
 
+We’re also looking for a **Product Designer** to join our team in New York. Email [Kelsey Scherer](mailto:kelsey.scherer@buzzfeed.com) or [apply directly](https://boards.greenhouse.io/buzzfeed/jobs/1736010?gh_jid=1736010) if you're interested and feel your skills align with those in our [Product Design Roles](https://github.com/buzzfeed/design/blob/master/product-design-roles.md).
+
 ## The Team
 The Product Design team at BuzzFeed is made up of multidisciplinary designers, who are individually responsible for all aspects of design: user research, UX design, visual design, prototyping and, on the web, front-end implementation. Additionally, our designers are key collaborators when it comes to cross-disciplinary activities such as product discovery and A/B experiment definition, design and analysis.
 
