@@ -9,6 +9,8 @@ We’re looking for 2 **Product Designers** to join our team in New York. Email 
 
 We're also looking for a **Senior Product Designer** to join our team in New York. Email [Kelsey Scherer](mailto:kelsey.scherer@buzzfeed.com) or [apply directly](https://boards.greenhouse.io/buzzfeed/jobs/1788599?gh_jid=1788599) if you're interested and feel your skills align with those in our [Product Design Roles](https://github.com/buzzfeed/design/blob/master/product-design-roles.md).
 
+We're also looking for a **Product Design Manager** to join our team in New York. Email [Kelsey Scherer](mailto:kelsey.scherer@buzzfeed.com) or [apply directly](https://boards.greenhouse.io/buzzfeed/jobs/1830984?gh_jid=1830984) if you're interested and feel your skills align with those in our [Product Design Roles](https://github.com/buzzfeed/design/blob/master/product-design-roles.md).
+
 ## The Team
 The Product Design team at BuzzFeed is made up of multidisciplinary designers, who are individually responsible for all aspects of design: user research, UX design, visual design, prototyping and, on the web, front-end implementation. Additionally, our designers are key collaborators when it comes to cross-disciplinary activities such as product discovery and A/B experiment definition, design and analysis.
 
