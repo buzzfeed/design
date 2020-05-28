@@ -5,9 +5,7 @@ Hello!
 Welcome to the recruiting home for BuzzFeed's Product Design team! Whether you're a candidate, a BuzzFeed employee or just someone looking to learn more about our recruiting process, the following documentation is meant to represent our best thinking at the moment, as well as give our candidates a concrete idea of what to expect when going through our recruiting process.
 
 ## Are We Hiring?
-We’re looking for a **Product Designer** to join our team in New York. Email [Kelsey Scherer](mailto:kelsey.scherer@buzzfeed.com) or [apply directly](https://boards.greenhouse.io/buzzfeed/jobs/1803452?gh_jid=1803452) if you're interested and feel your skills align with those in our [Product Design Roles](https://github.com/buzzfeed/design/blob/master/product-design-roles.md).
-
-We're also looking for 2 **Senior Product Designers** to join our team in New York. Email [Kelsey Scherer](mailto:kelsey.scherer@buzzfeed.com) or [apply directly](https://boards.greenhouse.io/buzzfeed/jobs/1788599?gh_jid=1788599) if you're interested and feel your skills align with those in our [Product Design Roles](https://github.com/buzzfeed/design/blob/master/product-design-roles.md).
+We’re looking for an **Associate Product Designer** to join our team in New York. Email [Kelsey Scherer](mailto:kelsey.scherer@buzzfeed.com) or [apply directly](https://boards.greenhouse.io/buzzfeed/jobs/2197439?gh_jid=2197439) if you're interested and feel your skills align with those in our [Product Design Roles](https://github.com/buzzfeed/design/blob/master/product-design-roles.md). We'll be conducting all interviews (including the final "onsite" loop) remotely.
 
 ## The Team
 The Product Design team at BuzzFeed is made up of multidisciplinary designers, who are individually responsible for all aspects of design: user research, UX design, visual design, prototyping and, on the web, front-end implementation. Additionally, our designers are key collaborators when it comes to cross-disciplinary activities such as product discovery and A/B experiment definition, design and analysis.
