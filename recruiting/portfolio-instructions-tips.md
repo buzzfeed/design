@@ -1,3 +1,5 @@
+# Portfolio Instructions & Tips
+
 Here’s what we look for in the 1 hour portfolio review:
 Please show **2-3 case studies** of your past work. This can include the same set of projects you walked us through in the previous meeting. Plan on a **~15–20 conversation for each**, where we may stop to ask questions throughout. The last 10 minutes will be time for any questions you have for us.
 
