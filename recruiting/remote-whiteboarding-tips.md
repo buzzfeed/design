@@ -1,6 +1,6 @@
 # Remote Whiteboarding Tips
 
-During the whiteboard interview, you'll be given a simple prompt and asked to work through this exercise with the help of a Senior Product Designer, Staff Product Designer, or Product Design Manager. 
+During the whiteboard interview, you'll be given a simple prompt and asked to work through the problem solving process with the help of a Senior Product Designer, Staff Product Designer, or Product Design Manager. 
 We'll be evaluating the following:
 * How you think through problems
 * How you communicate your thought process
