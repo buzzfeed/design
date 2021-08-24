@@ -56,7 +56,7 @@ Meet with one of our Product Managers and talk about your past relationships wit
 Like the Product Interview, but about engineering. What have been your best engineering collaborations to date and why did they work out? How do you translate design into code? Have you worked with engineers across offices before? How'd that go?
 
 #### Whiteboard Session
-While many whiteboard sessions are you standing at a whiteboard alone while someone watches you try to solve a problem, that's not how we actually work at BuzzFeed. With one of our Staff/Senior Product Designers, you'll work through a product problem, establishing goals, choosing a particular part of the prompt to focus on and exploring the possibilities together. While we expect you to mostly lead the discussion, we are there to participate and help out if you get stuck (just like in real life).
+While many whiteboard sessions are you standing at a whiteboard alone while someone watches you try to solve a problem, that's not how we actually work at BuzzFeed. With one of our Staff/Senior Product Designers, you'll work through a product problem, establishing goals, choosing a particular part of the prompt to focus on and exploring the possibilities together. While we expect you to mostly lead the discussion, we are there to participate and help out if you get stuck (just like in real life). You can see all of our instructions and tips [here](https://github.com/buzzfeed/design/blob/master/recruiting/remote-whiteboarding-tips.md).
 
 ### Final Decision and Offer
 After the Onsite Interview, we'll gather the folks you talked with and ask them for answers to the two questions posed earlier in this document:
