@@ -8,6 +8,7 @@
 [Product Designer](#product_designer)  
 [Senior Product Designer](#senior_product_designer)  
 [Staff Product Designer](#staff_product_designer)  
+[Principal Product Designer](#principal_product_designer)  
 [Designers Grouped By Theme](#designers_combined_by_theme)  
 
 [Product Design Manager](#product_design_manager)  
@@ -17,28 +18,31 @@
 <br>
 
 ## <a id="associate_product_designer"></a>Associate Product Designer
-<i>The associate level is focused on learning established processes and design patterns. Designers should seek out mentorship from other designers on the team as well as work directly with their manager on growth opportunities.</i>
+<i>Associate Product Designers work with guidance while actively seeking mentorship, focusing on learning established processes and design patterns. They take ownership of small and mid size projects. They work frequently with their manager to receive direction on more challenging or ambiguous problems and to define growth opportunities.</i>
 
 ### Visual Design
-Demonstrates taste in layout, typography and visual hierarchy. Uses our Design Principles, as well as existing style guides and previous Product Design work to represent the BuzzFeed brand.
+Demonstrates taste in layout, typography and visual hierarchy. Uses our Design Principles, as well as existing style guides and previous Product Design work to represent our brands.
 
 ### UX Design
 Has conceptual familiarity with information architecture, multi-step and cross-platform flows. Considers potential states (errors, successes, dead-ends) in their work.
 
 ### Patterns
-Follows existing visual and UX patterns established on BuzzFeed to ensure a consistent, intuitive experience.
+Follows existing visual and UX patterns established established across our brands to ensure a consistent, intuitive experience.
+
+### Product Thinking
+Familiar with the vision and key objectives for their product area. With support from their design manager and product manager, considers how their designs can support that vision.
 
 ### Process
-Learns and executes our defined design process, which includes project definition, design exploration, idea refinement, building and learning.
+Learns and executes our defined design process, which includes project definition, design exploration, idea refinement, building and learning. Takes guidance from their design lead or design manager on how best to manage speed and quality based on the scope and potential impact to users and/or revenue.
 
 ### Toolkit
-Employs design tools to solve and communicate user flows, interaction and motion. These tools include sketching, diagramming, interface design tools (Sketch, Photoshop, Illustrator), production HTML/CSS for the Web, or native prototyping tools (Framer, Principle) for Mobile.
+Employs design tools to solve and communicate user flows, interaction and motion. These tools could include sketching, diagramming, interface design tools (Figma, Sketch, Photoshop, Illustrator), production HTML/CSS and Javascript, platform SDKs (Xcode, Android Studio) or native prototyping tools (Framer, Principle.
 
 ### Transparency
-Shares work early and often and seeks out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively works with their manager to filter and prioritize this feedback.
+Shares work early and often and seeks out constructive feedback from their manager, stakeholders, teams and the Product Design team and actively works with their manager to filter and prioritize this feedback. Documents all work throughout the lifecycle of a project.
 
 ### Data
-Begins every project by partnering with User Research and Data Science to define what qualitative and quantitative data will be important in their work. Interfaces with those teams throughout the design and development process, making changes to the product based on their analysis and recommendations.
+Begins every project by partnering with their design lead, manager, or product manager to define what qualitative and quantitative data will be important in their work. Interfaces with with User Research and Product Analytics throughout the design and development process, making changes to the product based on their analysis and recommendations.
 
 ### Fluency
 Communicates with product leads and engineers in their language, designing with consideration for their cares and concerns. Proactively works with their manager to negotiate thoughtful design outcomes when there are cross-discipline concerns.
@@ -47,17 +51,17 @@ Communicates with product leads and engineers in their language, designing with 
 Practices verbal and written communication skills, in both one-on-one and group situations. Works with their manager to distill complex ideas, goals and problems in a way that is accessible even to those unfamiliar with the project.
 
 ### Mentorship
-Seeks out feedback from Senior and Staff Designers, to grow their own skills and design toolkit.
+Seeks out feedback from designers across the Product Design team, to grow their own skills and design toolkit.
 
 ### Culture
-Contributes to the culture of the Product Design team by participating in design-led projects, events and discussions, in order to spread design thinking and enthusiasm throughout BuzzFeed and the wider design community.
+Contributes to the culture of the Product Design team by participating in design-led projects, events and discussions, in order to spread design thinking and enthusiasm throughout BuzzFeed and the wider design community. Embodies the [Tech Values](), following the framework for how we want to work.
 
 <br>
 
 ## <a id="product_designer"></a>Product Designer
 <i>In order to move up to this level, Designers should hit each point marked with a *, plus any other 2. Designers and Managers should work together to define focus areas.
 
-At this level, Designers take on work more independently while continuing to proactively give and receive feedback.</i>
+Mid level Product Designers **take on work more independently** while continuing to proactively give and receive feedback. They take ownership of small and mid size projects and may start to **take on leadership responsibilities in their cross-discipline group.**</i>
 
 ### Visual Design*
 Demonstrates **understanding** of layout, typography and visual hierarchy. Uses our Design Principles, as well as existing style guides and previous Product Design work to represent the BuzzFeed brand **with a holistic consideration for their product's future.**
@@ -69,19 +73,19 @@ Demonstrates **understanding** of layout, typography and visual hierarchy. Uses 
 **Balances** existing visual and UX patterns **with platform-specific patterns** to ensure a consistent, intuitive experience. **Identifies and flags instances where existing patterns break down in their own work and diverges responsibly.**
 
 ### Product Thinking
-Has a strong understanding of the vision and key objectives for their product area, taking cues from their design manager, as well as their product and engineering leads. Consistently considers how their designs can support that vision, the team's goals, the broader product vision and company objectives. 
+**Has a strong understanding** of the vision and key objectives for their product area, **taking cues from their design lead and/or manager, as well as their product and engineering leads. Consistently** considers how their designs can support that vision, **the team's goals, the broader product vision and company objectives**. 
 
 ### Process
-**Consistently demonstrates** our defined design process and **uses the design process to contextualize their work and the type of feedback they need in a given moment.**
+**Consistently demonstrates** our defined design process and **uses the design process to contextualize their work and the type of feedback they need in a given moment. Learns to balance speed and quality based on the scope and potential impact to users and/or revenue.**
 
 ### Toolkit
-Employs design tools to solve and communicate user flows, interaction and motion, and **knows which tool to use** depending on scope and phase of the project. These tools include sketching, diagramming, interface design tools (Sketch, Photoshop, Illustrator), production HTML/CSS for the Web, or native prototyping tools (Framer, Principle) for Mobile.
+Employs design tools to solve and communicate user flows, interaction and motion, and **knows which tool to use** depending on scope and phase of the project. These tools could include sketching, diagramming, interface design tools (Figma, Sketch, Photoshop, Illustrator), production HTML/CSS and Javascript, platform SDKs (XCode, Android Studio) or native prototyping tools (Framer, Principle).
 
 ### Transparency
-Shares work early and often and seeks out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively works with their **team** and manager to filter and prioritize this feedback.
+Shares work early and often and seeks out constructive feedback from their manager, stakeholders, teams and the Product Design team and actively works with their **team** and manager to filter and prioritize this feedback. Documents all work throughout the lifecycle of a project.
 
 ### Data
-Begins every project by partnering with User Research and Data Science to define what qualitative and quantitative data will be important in their work. **Partners** with those teams throughout the design and development process, **becoming familiar with different data collection techniques** and making changes to the product based on data analysis.
+Begins every project by partnering with their design lead, manager, or product manager to define what qualitative and quantitative data will be important in their work. **Partners** with User Research and Product Analytics throughout the design and development process, **becoming familiar with different data collection techniques** and making changes to the product based on data analysis.
 
 ### Fluency
 Communicates with product leads and engineers in their language, designing with consideration for their cares and concerns. **Fosters a collaborative, cross-disciplinary design process** and, as a result, is trusted by their team to talk through both scope and technical challenges and **negotiate** thoughtful outcomes.
@@ -90,19 +94,22 @@ Communicates with product leads and engineers in their language, designing with 
 **Possesses strong verbal and written communication skills,** whether in one-on-one or group situations. **Communicates** complex ideas, goals and problems in a way that is accessible even to those unfamiliar with the project. **In design conversations about their own work, keeps discussions on-track and focused on delivering actionable next steps.**
 
 ### Mentorship
-**Provides direct and impactful feedback in Basecamp and Design Critiques.** Seeks out feedback from Senior and Staff Designers, to grow their own skills and design toolkit.
+**Provides direct and impactful feedback in Basecamp, Slack, and Design Critiques.** Seeks out feedback from designers across the Product Design team, to grow their own skills and design toolkit.
+
+### Leadership
+When appropriate, acts in a leadership role within their cross functional squad or group. Taking cues from their design lead and/or manager, as well as their product and engineering leads, works collaboratively to ensure their squad or group operates efficiently.
 
 ### Culture
-Contributes to the culture of **their product team by identifying, advocating for and executing design-driven projects and initiatives within their product area.** Also contributes to the culture of the Product Design team by participating in other design-led projects, events and discussions, in order to spread design thinking and enthusiasm throughout BuzzFeed and the wider design community.
+Contributes to the culture of **their product team by identifying, advocating for and executing design-driven projects and initiatives within their product area.** Also contributes to the culture of the Product Design team by participating in other design-led projects, events and discussions, in order to spread design thinking and enthusiasm throughout BuzzFeed and the wider design community. Embodies the [Tech Values](), following the framework for how we want to work.
 
 <br>
 
 ## <a id="senior_product_designer"></a>Senior Product Designer
 <i>In order to move up to this level, Designers should hit each point marked with a *, plus any other 4. Designers and Managers should work together to define focus areas.
 
-Senior Product Designers take design ownership of large projects and are leaders in their cross-discipline group. They assume responsibility for design quality across their immediate and adjacent product groups and collaborate with their group to define roadmaps and goals.
+Senior Product Designers take **ownership of large projects** and are leaders in their cross-discipline group.  can navigate ambiguous projects and are accountable for design quality across their immediate and adjacent product groups. They collaborate with their group to define roadmaps and goals. They mentor other designers to help them grow their skill sets.
 
-If a Senior Product Designer is executing in their role at a high level and are interested in the management track, they may manage a team of 1-2 designers. While managing, they will be expected to live up to the Tech Manager expectations and work with their direct manager to manage the careers of their direct reports and conduct performance reviews.
+If there is an opportunity, Senior Product Designers operating at a high level may manage a team of 1-2 designers. While managing, they will be expected to live up to the Tech Manager expectations and work with their direct manager to manage the careers of their direct reports and conduct performance reviews.
 
 If a Senior Designer is excelling in people management and wants to transition to the management track they may be considered for an open role in Management when one arises.</i>
 
@@ -116,99 +123,145 @@ Demonstrates and **articulates** a strong understanding of information architect
 Balances existing visual and UX patterns with platform-specific patterns to ensure a consistent, intuitive experience. Identifies and flags instances where existing patterns break down in their own work, **as well as work done by other designers on that platform. When diverging from established patterns, identifies, documents and socializes new patterns amongst the design team.**
 
 ### Product Thinking*
-**Leads the vision for their product area alongside their product and engineering counterparts. Shapes their team's roadmap and goals by providing input from a user's perspective, and ensures they're pursuing achievable, measurable and impactful goals. In their design work, regularly references product goals and can speak confidently about how their work relates to the broader product vision and company objectives.**
+**Leads the vision for their product area alongside their product and engineering counterparts. Shapes their team's roadmap and goals by providing input from a user's perspective, and ensures they're pursuing achievable, measurable and impactful goals. In their design work, regularly references product goals and can speak confidently about how their work relates to the broader product vision and company objectives. When appropriate, provides feedback on the product direction of adjacent product areas to other designers.**
 
 ### Process
-Demonstrates a **deep understanding** of our defined design process by **showing good judgment and flexibility in applying that process to their work, moving fluidly between each stage as needed.** Uses the design process to contextualize their work and the type of feedback they need in a given moment.
+Demonstrates a **deep understanding** of our defined design process by **showing good judgment and flexibility in applying that process to their work, moving fluidly between each stage as needed.** Uses the design process to contextualize their work and the type of feedback they need in a given moment. **Consistently balances** speed and quality based on the scope and potential impact to users and/or revenue.
 
 ### Toolkit
-Employs a **broad** set of design tools to **best solve** and communicate user flows, interaction and motion, and knows which tool to use depending on scope and phase of the project. These tools include sketching, diagramming, interface design tools (Sketch, Photoshop, Illustrator), production HTML/CSS and Javascript for the Web, or platform SDKs (Xcode, Android Studio) and native prototyping tools (Framer, Principle) for Mobile. Additionally, **seeks out new techniques and tools**, tries them out and makes recommendations to the Product Design team.
+Employs a **broad** set of design tools to **best solve** and communicate user flows, interaction and motion, and knows which tool to use depending on scope and phase of the project. These tools could include sketching, diagramming, interface design tools (Sketch, Photoshop, Illustrator), production HTML/CSS and Javascript, or platform SDKs (Xcode, Android Studio) and native prototyping tools (Framer, Principle). Additionally, **seeks out new techniques and tools**, tries them out and makes recommendations to the Product Design team.
 
 ### Transparency
-Shares work early and often and **encourages peers** to seek out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively filters and prioritizes this feedback **on their own** and with their team.
+Shares work early and often and **encourages peers** to seek out constructive feedback from their manager, stakeholders, teams and the Product Design team and actively filters and prioritizes this feedback **on their own** and with their team. **Additionally, encourages peers to give constructive feedback to the rest of the team.** Documents all work throughout the lifecycle of a project and **encourages peers to do the same.**
 
 ### Data
-Begins every project by **defining** what qualitative and quantitative data will be important in their work. Partners with User Research and Data Science throughout the design and development process **to run research studies and experiments, analyze the findings and validate potential product changes. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users.**
+Begins every project by **defining** what qualitative and quantitative data will be important in their work. Partners with User Research and Product Analytics throughout the design and development process **to run research studies and experiments, analyze the findings and validate potential product changes. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users.**
 
 ### Fluency
-Communicates with product leads and engineers in their language, designing with consideration for their cares and concerns. Fosters a highly-collaborative design process and, as a result, is trusted by their team to talk through both scope and technical challenges and negotiate thoughtful outcomes. **Participates in cross-discipline initiatives**, bringing a design voice to the conversation and building trust between the design team and other disciplines.
+Communicates with product leads and engineers and stakeholders in their language, designing with consideration for their cares and concerns. Fosters a highly-collaborative design process and, as a result, is trusted by their team to talk through both scope and technical challenges and negotiate thoughtful outcomes. **In cross-discipline initiatives**, brings a design voice to the conversation and builds trust between the design team and other disciplines.
 
 ### Communication*
 Possesses strong verbal and written communication skills, whether in one-on-one or group situations. Communicates complex ideas, goals and problems in a way that is accessible even to those unfamiliar with the project. **Leads and directs group design conversations,** keeping them on-track and focused on delivering actionable next steps.
 
 ### Mentorship
-Provides regular, direct and impactful feedback in Basecamp and Design Critiques, additionally engaging individual designers **in adjacent product teams to help them grow** their skills and design toolkit. Is **generous with their time and knowledge.** Looks out for and offers potential opportunities to other designers, as well as flags successes and concerns to design managers.
+Provides regular, direct and impactful feedback in Basecamp, Slack, and Design Critiques, additionally engaging individual designers **in adjacent product teams to help them grow** their skills and design toolkit. Is **generous with their time and knowledge.** Looks out for and offers potential opportunities to other designers, as well as flags successes and concerns to design managers.
 
 ### Leadership
-Assumes a leadership role on the Product Design team. Is held accountable for design quality and cohesion across their own and adjacent product teams, and flags quality concerns to the responsible designers and design managers. Additionally, regularly evaluates existing design processes and tooling, and makes recommendations to design management when something can be improved.
+Assumes a leadership role on the Product Design team **and within their cross functional team. Shapes team norms and processes, and with their product and engineering counterparts takes responsibility for the operational excellence of their team.** Is held accountable for design quality and cohesion across their own and adjacent product teams, and flags quality concerns to the responsible designers and design managers. Additionally, regularly evaluates existing design processes and tooling, and makes recommendations to design management when something can be improved.
 
 ### Culture
-Contributes to the culture of their own and **adjacent product teams** by identifying, advocating for and **driving the execution** of design-driven projects and initiatives **that have cross-team impact.** Also contributes to the culture of the Product Design team by **identifying and helping to organize opportunities** (internal or external speaking engagements, local meetups, participating in open source projects, writing blog posts, etc.) to spread design thinking and enthusiasm throughout BuzzFeed and the wider design community.
+Contributes to the culture of their own and **adjacent product teams** by identifying, advocating for and **driving the execution** of design-driven projects and initiatives **that have cross-team impact.** Also contributes to the culture of the Product Design team by **identifying and helping to organize opportunities** (internal or external speaking engagements, local meetups, participating in open source projects, writing blog posts, etc.) to spread design thinking and enthusiasm throughout BuzzFeed and the wider design community. Embodies the [Tech Values]() **and serves as an example to the Product Design team**, following the framework for how we want to work.
 
 ### Recruiting
-Completes training to support Product Design interview loops. Vets and reaches out to designers in our recruiting list, regularly conducts screening calls, participates in Product Design on-site interview loops and ensures their written and verbal feedback are thoughtful and represent our role documentation.
-
-### The Example
-Exemplifies the [Tech Leadership Principles](https://github.com/buzzfeed/design/blob/master/tech-leadership-principles.md), and serves as an example to everyone on the Product Design team. Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment.
+Completes training to support Product Design interview loops. Participates in Product Design interview loops and ensures their written and verbal feedback are thoughtful and represent our role documentation.
 
 <br>
 
 ## <a id="staff_product_designer"></a>Staff Product Designer
 <i>In order to move up to this level, Designers should hit each point marked with a *, plus any other 4. Designers and Managers should work together to define focus areas.
 
-Staff Product Designers are leaders within the Design organization and Tech overall, leading projects and teams across product areas. They assume responsibility for design quality of all of our products, our processes on the team, and actively mentor and coach other Designers.
+Staff Product Designers are **leaders within the Design organization and Tech overall, leading projects and teams across product areas.**  They take ownership of large, ambiguous, projects and are accountable for design quality of our products and our processes on the team. They actively mentor and coach other designers to help them grow their skill sets.
 
-If a Staff Product Designer is executing in their role at a high level and are interested in the management track, they may manage a team of 1-2 designers. While managing, they will be expected to live up to the Tech Manager expectations and work with their direct manager to manage the careers of their direct reports and conduct performance reviews.
+If there is an opportunity, Staff Product Designers operating at a high level may manage a team of 1-2 designers. While managing, they will be expected to live up to the Tech Manager expectations and work with their direct manager to manage the careers of their direct reports and conduct performance reviews.
 
 If a Staff Designer is excelling in people management and wants to transition to the management track they may be considered for an open role in Management when one arises.</i>
 
 
 ### Visual Design*
-Demonstrates, articulates and **teaches** understanding of layout, typography and visual hierarchy. **Gives strong design direction to other designers on the team,** encouraging creative use of the Design Principles and existing visual frameworks to produce designs and, where appropriate, new styles and patterns that are visually cohesive with the rest of BuzzFeed's products. Maintains, suggests and **advocates for** evolutions of our Design Principles and existing style guides with a holistic consideration for **all of BuzzFeed's products. Forges strong relationships with other design teams at BuzzFeed and works with them to influence the entire BuzzFeed ecosystem.**
+Demonstrates, articulates and **teaches** understanding of layout, typography and visual hierarchy. **Gives strong design direction to other designers on the team,** encouraging creative use of the Design Principles and existing visual frameworks to produce designs and, where appropriate, new styles and patterns that are visually cohesive with the rest of BuzzFeed's products. Maintains, suggests and **advocates for** evolutions of our Design Principles and existing style guides with a holistic consideration for **all of our products. Where appropriate, develops relationships with other design teams at BuzzFeed and works with them to influence the visual language of their product area.**
 
 ### UX Design*
 Demonstrates, articulates and **teaches others** understanding of information architecture, multi-step and cross-platform flows. Consistently considers the holistic user experience, potential states (errors, successes, dead-ends) and product overlaps in their own and others' work. Points out connections and potential collisions between different products, features and platforms.
 
 ### Patterns*
-Balances existing visual and UX patterns with platform-specific patterns to ensure a consistent, intuitive experience. Identifies and flags instances where existing patterns break down in their own work, as well as work done by other designers **across all of BuzzFeed's products**. When diverging from established patterns, identifies, documents and socializes new patterns amongst the design team, **and assists and educates fellow designers in doing the same.**
+Balances existing visual and UX patterns with platform-specific patterns to ensure a consistent, intuitive experience. Identifies and flags instances where existing patterns break down in their own work, as well as work done by other designers **across all of our products**. When diverging from established patterns, identifies, documents and socializes new patterns amongst the design team, **and assists and educates fellow designers in doing the same.**
 
 ### Product Thinking*
-Leads the vision for their own product area alongside their product and engineering counterparts, **while also defining how all of BuzzFeed's products work together.** Shapes their team's roadmap and goals by providing input from a user's perspective, and ensures they're pursuing achievable, measurable and impactful goals. In their design work, regularly references product goals and can speak confidently about how their work relates to the broader product vision and company objectives. **Works with other designers and design managers to drive for product directions with complimentary, cohesive goals and execution.**
+Leads the vision for their own product area alongside their product and engineering counterparts, **while also defining how all of our products work together.** Shapes their team's roadmap and goals by providing input from a user's perspective, and ensures they're pursuing achievable, measurable and impactful goals. In their design work, regularly references product goals and can speak confidently about how their work relates to the broader product vision and company objectives. Provides feedback on the product direction of **multiple** product areas to other designers. **Works with other designers and design managers on complementary, cohesive goals and execution across products/teams.**
+
 
 ### Process
-**Exemplifies** and **takes responsibility for maintaining and improving** our defined design process. Shows good judgment and flexibility in applying that process to their work, moving fluidly between each stage as needed. **Uses the process to educate their teams and fellow designers in how best to approach problems, solicit feedback and drive for impactful outcomes.**
+**Exemplifies** and **takes responsibility for maintaining and improving** our defined design process. Shows good judgment and flexibility in applying that process to their work, moving fluidly between each stage as needed. **Uses the process to educate their teams and fellow designers in how best to approach problems, solicit feedback and drive for impactful outcomes.** **Proven track record of balancing** speed and quality based on the scope and potential impact to users and/or revenue. A**dditionally, assists and educates fellow designers in doing the same.**
+
 
 ### Toolkit
-Employs a broad set of design tools to best solve and communicate user flows, interaction and motion, and knows which tool to use depending on scope and phase of the project. These tools include sketching, diagramming, interface design tools (Sketch, Photoshop, Illustrator), production HTML/CSS and Javascript for the Web, **as well as** platform SDKs (Xcode, Android Studio) and native prototyping tools (Framer, Principle) for Mobile. Additionally, seeks out new techniques and tools, tries them out, makes recommendations **and teaches those tools to the Product Design team.**
+Employs a broad set of design tools to best solve and communicate user flows, interaction and motion, and knows which tool to use depending on scope and phase of the project. Additionally, **assists and educates other designers in doing the same.** These tools could sketching, diagramming, interface design tools (Figma, Sketch, Photoshop, Illustrator), production HTML/CSS and Javascript, **as well as** platform SDKs (Xcode, Android Studio) and native prototyping tools (Framer, Principle). Additionally, seeks out new techniques and tools, tries them out, makes recommendations **and teaches those tools to the Product Design team.**
 
 ### Transparency
-Shares work early and often and encourages peers to seek out constructive feedback from their manager, stakeholders, teams and the Product Design team — in Basecamp (at least once per week for active projects), presentations and Crits — and actively filters and prioritizes this feedback. Also, **solicits feedback from other designers as a tool for teaching** different methods and benefits of good critique.
+Shares work early and often. Encourages, **assists, and teaches** peers to seek out constructive feedback from their manager, stakeholders, teams and the Product Design team and actively filters and prioritizes this feedback. **Encourages, assists, and teaches peers to give constructive feedback to the rest of the team. **Also, **solicits feedback from other designers as a tool for teaching** different methods and benefits of good critique. Documents all work throughout the lifecycle of a project and encourages peers to do the same. 
 
 ### Data
-Begins every project by defining what qualitative and quantitative data will be important in their work. Partners with User Research and Data Science throughout the design and development process to run research studies and experiments, analyze the findings and validate potential product changes. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users. **Consistently holds designers accountable for examining their choices through the lens of data, and fosters a learning culture both within Design and the larger Tech organization.**
+Begins every project by defining what qualitative and quantitative data will be important in their work. Partners with User Research and Product Analytics throughout the design and development process to run research studies and experiments, analyze the findings and validate potential product changes. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users. **Consistently holds designers accountable for examining their choices through the lens of data, and fosters a learning culture both within Design and the larger Tech organization.**
 
 ### Fluency
-Communicates with product leads and engineers in their language, designing with consideration for their cares and concerns. Fosters a highly-collaborative design process and, as a result, is trusted by their team to talk through both scope and technical challenges and negotiate thoughtful outcomes. **Takes a leadership role** in cross-discipline initiatives, bringing a design voice to the conversation and building trust between the design team and other disciplines.
+Communicates with product leads and engineers in their language, designing with consideration for their cares and concerns. Fosters a highly-collaborative design process and, as a result, is trusted by both their team and stakeholders to talk through both scope and technical challenges and negotiate thoughtful outcomes. **Coaches other designers on how to foster a collaborative design process and work with people across disciplines. Participates** in cross-discipline initiatives, bringing a design voice to the conversation and building trust between the design team and other disciplines.
 
 ### Communication
 Possesses strong verbal and written communication skills, whether in one-on-one or group situations. Communicates complex ideas, goals and problems in a way that is accessible even to those unfamiliar with the project. Leads and directs group conversations, **whether about design or design-adjacent topics,** keeping them on-track and focused on delivering actionable next steps. **Regularly coaches other designers in their presentation, interpersonal and team communication skills.**
 
 ### Mentorship*
-Provides regular, direct and impactful feedback in Basecamp and Design Critiques, while additionally engaging individual designers **across the Product Design team** to help them grow their skills and design toolkit. Is generous with their time and knowledge, and takes an **active interest in the career development** of designers on the Product Design team. Looks out for and offers potential opportunities to other designers, as well as flags successes and concerns to design managers.
+Provides regular, direct and impactful feedback in Basecamp, Slack, and Design Critiques, while additionally engaging individual designers **across the Product Design team** to help them grow their skills and design toolkit. Is generous with their time and knowledge, and takes an **active interest in the career development** of designers on the Product Design team. Looks out for and offers potential opportunities to other designers, as well as flags successes and concerns to design managers.
 
 ### Leadership
-Assumes a leadership role on the Product Design team, as well as the Tech team overall. Is held accountable for design quality and cohesion across **all of Product Design**, and flags quality concerns to the responsible designers and design managers. **Helps fellow designers advocate for best practices and solutions with their teams, providing a strong voice for design within product development.** Additionally, regularly evaluates existing **staffing,** processes, **design documentation** and tooling and makes recommendations to design management when something can be improved.
+Assumes a leadership role on the Product Design team, within their cross functional team, **as well as the Tech team overall.** Is held accountable for design quality and cohesion across **many product areas**, and flags quality concerns to the responsible designers and design managers. **Helps fellow designers advocate for best practices and solutions with their teams, providing a strong voice for design within product development.** Additionally, regularly evaluates existing **staffing,** processes, **design documentation** and tooling and makes recommendations to design management when something can be improved.
 
 ### Culture
-Contributes to the culture of their product team as well as **BuzzFeed Tech as a whole** by identifying, advocating for and driving the execution of design-driven projects and initiatives **that have impact (in total) across the entire department.** Also contributes to the Product Design team culture by **owning and caring for Product Design team rituals (like Design Critiques), ensuring effective and empathetic feedback loops and stronger resulting work across the entire team.** Additionally, identifies and **organizes** opportunities (internal or external speaking engagements, local meetups, participating in open source projects, writing blog posts, etc.) to spread design thinking and enthusiasm throughout BuzzFeed and the wider design community.
+Contributes to the culture of their product team as well as **BuzzFeed Tech as a whole** by identifying, advocating for and driving the execution of design-driven projects and initiatives **that have impact (in total) across the entire department.** Also contributes to the Product Design team culture by **owning and caring for Product Design team rituals (like Design Critiques), ensuring effective and empathetic feedback loops and stronger resulting work across the entire team.** Additionally, identifies and **organizes** opportunities (internal or external speaking engagements, local meetups, participating in open source projects, writing blog posts, etc.) to spread design thinking and enthusiasm throughout BuzzFeed and the wider design community. Embodies the [Tech Values]() and serves as an example to the Tech organization, following the framework for how we want to work.
 
 ### Recruiting
-**Takes ownership of Product Design recruiting by providing interview training to the Product Design team, as well as process feedback and recommendations for improvement to the design managers. Cultivates recruiting sources and proactively adds potential candidates to our recruiting list.** Regularly reaches out to designers in our recruiting list, conducts screening calls, participates in Product Design on-site interview loops and ensures their written and verbal feedback are thoughtful and represent our role documentation.
-
-### The Example
-Exemplifies the [Tech Leadership Principles](https://github.com/buzzfeed/design/blob/master/tech-leadership-principles.md), and serves as an example to everyone in the **Tech department.** Embodies the way we want to work, the ways in which we collaborate and strengthens our relationship with other disciplines and departments. Gives design management confidence in their ability to positively impact and operate effectively within any team or environment. **Mentors their fellow designers to help them grow and embody our principles.**
+**Takes ownership of Product Design recruiting by providing interview training to the Product Design team, as well as process feedback and recommendations for improvement to the design managers. Regularly reaches out to designers in our recruiting list, conducts screening calls,** participates in Product Design interview loops and ensures their written and verbal feedback are thoughtful and represent our role documentation.
 
 <br>
+
+## <a id="principal_product_designer"></a>Principal Product Designer
+_In order to move up to this level, Designers should hit each point marked with a *, plus any other 4. Designers and Managers should work together to define focus areas._
+
+_Principal Product Designers are leaders within the Product Design team and Tech overall, leading projects and teams across product areas. **They proactively help improve design, organizational, and/or cultural initiatives that are impactful across the Tech org.** They are accountable for design quality of all of our products and our processes on the team. **They influence product strategy across multiple groups.** They actively mentor and coach designers and **other cross-functional teammates across the organization** to help them grow their skill sets._
+
+_If there is an opportunity, Principal Product Designers operating at a high level may manage a team of 1-2 designers. While managing, they will be expected to live up to the Tech Manager expectations and work with their direct manager to manage the careers of their direct reports and conduct performance reviews._
+
+### Visual Design*
+Demonstrates, articulates and teaches **a high skill level** of layout, typography and visual hierarchy. **Creates work that raises our bar for quality of visual design.** Gives strong design direction to other designers on the team, encouraging creative use of the Design Principles and existing visual frameworks to produce designs and, where appropriate, new styles and patterns that are visually cohesive with the rest of BuzzFeed's products. Maintains, suggests and advocates for evolutions of our Design Principles and existing style guides with a holistic consideration for all of our products. **Forges** relationships with other design teams at BuzzFeed and works with them to influence the visual language of **multiple product areas.**
+
+### UX Design*
+Demonstrates **a high skill level of** and articulates and teaches others about information architecture, multi-step and cross-platform flows. Creates work that raises our bar for quality of UX design. Consistently considers the holistic user experience, potential states (errors, successes, dead-ends) and product overlaps in their own and others' work. **Proactively identifies** connections and potential collisions, **influencing how those different products, features and platforms work together.**
+
+### Patterns*
+Balances existing visual and UX patterns with platform-specific patterns to ensure a consistent, intuitive experience. Identifies and flags instances where existing patterns break down in their own work, as well as work done by other designers **across all of our products. Defines our strategy for when and how designers should diverge from established patterns. Assists and educates fellow designers in doing the same.**
+
+### Product Thinking*
+Leads the vision for their own product area alongside their product and engineering counterparts, while also defining how BuzzFeed's products work together. Shapes their team's roadmap and goals by providing input from a user's perspective, and ensures they're pursuing achievable, measurable and impactful goals. In their design work, regularly references product goals and can speak confidently about how their work relates to the broader product vision and company objectives. Provides feedback on the product direction of all product areas to other designers. **Influences product direction of multiple products/teams.**
+
+### Process
+**Regularly evaluates our defined design process in order to improve and scale the process.** Shows good judgment and flexibility in applying that process to their work, moving fluidly between each stage as needed. Uses the process to educate their teams and fellow designers in how best to approach problems, solicit feedback and drive for impactful outcomes. **Advocates for and educates Tech on the design process to build trust in design.** Proven track record of balancing speed and quality based on the scope and potential impact to users and/or revenue. Additionally, assists and educates fellow designers in doing the same.
+
+### Toolkit
+**Consistently demonstrates a high level of skill in employing** a broad set of design tools to best solve and communicate user flows, interaction and motion, and knows which tool to use depending on scope and phase of the project. Additionally, assists and educates other designers in doing the same. These tools include sketching, diagramming, interface design tools (Figma, Sketch, Photoshop, Illustrator), production HTML/CSS and Javascript, as well as platform SDKs (Xcode, Android Studio) and native prototyping tools (Framer, Principle). Additionally, seeks out new techniques and tools, tries them out, makes recommendations and teaches those tools to the Product Design team.
+
+### Transparency
+Shares work early and often. Encourages, assists, and teaches peers to seek out constructive feedback from their manager, stakeholders, teams and the Product Design team. Actively filters and prioritizes this feedback. **Works to increase transparency between design and the rest of the Tech organization.** Encourages, assists, and teaches peers to give constructive feedback to the rest of the team. Also, solicits feedback from other designers as a tool for teaching different methods and benefits of good critique. Documents all work throughout the lifecycle of a project and encourages peers to do the same.
+
+### Data
+**Proven track record of impactfully using qualitative and quantitative data in their work.** Partners with User Research Product Analytics throughout the design and development process to run research studies and experiments, analyze the findings and validate potential product changes. Socializes their learnings with the rest of product development in a thoughtful, articulate way in order to enhance everyone's understanding of our products and users. Consistently holds designers accountable for examining their choices through the lens of data, and fosters a learning culture both within Design and the larger Tech organization.
+
+### Fluency
+Communicates with product leads, engineers, and stakeholders in their language, designing with consideration for their cares and concerns. Fosters a highly-collaborative design process and, as a result, is trusted by both their team and stakeholders to talk through both scope and technical challenges and negotiate thoughtful outcomes. **Coaches other designers on how to foster a collaborative design process and work with people across disciplines. Takes a leadership role** in cross-discipline initiatives, bringing a design voice to the conversation and building trust between the design team and other disciplines.
+
+### Communication
+**Consistently displays excellence in** verbal and written communication skills, whether in one-on-one or group situations. Communicates complex ideas, goals and problems in a way that is accessible even to those unfamiliar with the project. **Proven track record of** leading and directing group conversations, whether about design or design-adjacent topics **with peers and leadership.** Keps those conversations on-track and focused on delivering actionable next steps. Regularly coaches other designers in their presentation, interpersonal and team communication skills.
+
+### Mentorship*
+**Demonstrates consistent** mentorship to Product Designers **as measured by the growth and success of their mentees.** Provides regular, direct and impactful feedback in Basecamp, Slack, and Design Critiques, while additionally engaging individual designers across the Product Design team to help them grow their skills and design toolkit. Is generous with their time and knowledge, and takes an active interest in the career development of designers on the Product Design team. Looks out for and offers potential opportunities to other designers, as well as flags successes and concerns to design managers.
+
+### Leadership
+Assumes a leadership role on the Product Design team, within their cross functional team as well as the Tech team overall. Is held accountable for design quality and cohesion across many product areas and flags quality concerns to the responsible designers and design managers. Helps fellow designers advocate for best practices and solutions with their teams, providing a strong voice for design within product development. **Shares operational and process learnings across the Tech organization.** Additionally, regularly evaluates existing staffing, processes, design documentation and tooling and makes recommendations to design management when something can be improved.
+
+### Culture
+Contributes to the culture of their product team as well as BuzzFeed Tech as a whole by identifying, advocating for and driving the execution of design-driven projects and initiatives that have impact (in total) across the entire department. Also contributes to the Product Design team culture by owning and caring for Product Design team rituals (like Design Critiques), ensuring effective and empathetic feedback loops and stronger resulting work across the entire team. Additionally, identifies and organizes opportunities (internal or external speaking engagements, local meetups, participating in open source projects, writing blog posts, etc.) to spread design thinking and enthusiasm throughout BuzzFeed and the wider design community. Embodies the [Tech Values]() and serves as an example to the Tech organization, following the framework for how we want to work. **Mentors others from across the organization in how to embody our values.**
+
+### Recruiting
+Takes ownership of Product Design recruiting by providing interview training to the Product Design team, as well as process feedback and recommendations for improvement to the design managers. **When appropriate, cultivates recruiting sources and proactively adds potential candidates to our recruiting list.** Regularly reaches out to designers in our recruiting list, conducts screening calls, participates in Product Design interview loops and ensures their written and verbal feedback are thoughtful and represent our role documentation.
+
 
 ## <a id="designers_combined_by_theme"></a>Designers Grouped By Theme
 
