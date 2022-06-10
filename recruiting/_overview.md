@@ -5,7 +5,7 @@ Hello!
 Welcome to the recruiting home for BuzzFeed's Product Design team. Whether you're a candidate, a BuzzFeed employee or just someone looking to learn more about our recruiting process, the following documentation is meant to represent our best thinking at the moment, as well as give our candidates a concrete idea of what to expect when going through our recruiting process.
 
 ## Are We Hiring?
-Yes — We're currently hiring a [Product Designer](https://boards.greenhouse.io/buzzfeed/jobs/3024127?gh_jid=3024127](https://boards.greenhouse.io/buzzfeed/jobs/4301382?gh_jid=4301382).
+Yes — We're currently hiring a [Product Designer](https://boards.greenhouse.io/buzzfeed/jobs/3024127?gh_jid=3024127).
 
 ## The Team
 The Product Design team at BuzzFeed is made up of multidisciplinary designers, who are individually responsible for all aspects of design: user research, UX design, visual design, prototyping and front-end implementation. Additionally, our designers are key collaborators when it comes to cross-disciplinary activities such as product discovery, strategy, roadmap creation, and A/B experiment definition, design and analysis.
